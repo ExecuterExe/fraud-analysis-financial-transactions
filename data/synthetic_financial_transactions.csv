@@ -1,0 +1,601 @@
+Transaction_ID,Date,Transaction_Type,Department,Vendor,Payment_Method,Category,Approved_by,Recurring,Project_Code,Amount,Is_Fraudulent
+3f07a2a7-626d-45f5-b941-befd80169997,2022-11-15,expense,R&D,Hood Ltd,card,training,,False,PRJ_016,-4337.03,False
+9dffc6ab-d54b-464b-a088-3b398a8405ee,2022-03-18,investment,IT,"Valdez, Robinson and Fernandez",card,salary,CEO,True,PRJ_005,-12397.23,False
+78fdc409-c3a2-49e8-942d-95b9cee9d122,2021-05-14,expense,HR,"Henry, Hill and Johnson",bank_transfer,software,CTO,False,PRJ_008,-5348.3,False
+18b9261e-5318-4d28-8d65-8ff4efe294d5,2021-08-05,expense,Finance,Ford-Murphy,cash,salary,HR_Manager,False,PRJ_019,-2891.18,False
+26ffeeee-5108-457e-8d74-fba0180aa3f2,2023-06-03,income,R&D,"Lewis, Carroll and Walker",card,operational,CEO,False,PRJ_005,8854.2,False
+43e5b66c-dec5-41cc-a1aa-2dddc78fddee,2022-05-12,expense,Marketing,"Valdez, Robinson and Fernandez",cash,training,CEO,True,PRJ_020,-2370.44,False
+b1e624d2-dbc7-4a38-a849-4fe514a2ffa6,2024-01-29,expense,IT,"Russo, Johnson and Torres",crypto,travel,CFO,False,PRJ_013,-1380.97,False
+a4b3b66d-5e95-4d83-9ac3-91b6cd653da1,2022-10-25,expense,Finance,"Jones, Ramirez and Reed",bank_transfer,software,COO,True,PRJ_013,-5540.55,False
+bc6f8efb-84b4-4b0a-98d4-92b1d252bb7d,2023-02-03,expense,Sales,Hays-Thomas,bank_transfer,services,CTO,False,PRJ_011,-5190.62,False
+4adfa9c1-dfb9-43d7-83aa-55a642fd6022,2023-12-13,income,IT,Blankenship and Sons,cash,software,CFO,False,PRJ_004,9694.84,False
+9abe9bb1-20e8-47d9-8b40-f6a9f8ce4e98,2021-07-25,income,Sales,"Alexander, White and Banks",bank_transfer,training,COO,False,PRJ_016,12262.23,False
+26fc9cfc-bcb1-45bb-873e-f2853af02055,2023-02-06,income,Finance,George-Carpenter,card,travel,CEO,True,PRJ_010,12969.58,False
+adc97de1-4b5b-4876-bb50-b74abd8df641,2021-04-09,income,Sales,,card,training,CEO,False,PRJ_009,11269.64,False
+e1f83efa-c2bc-4d06-80c3-fbcb984d3df8,2022-10-30,investment,HR,"Valdez, Robinson and Fernandez",bank_transfer,travel,HR_Manager,True,PRJ_007,-15726.26,False
+825a0b41-23e3-41c9-ad9e-3867d079dfb1,2023-04-11,expense,IT,"Gomez, Hopkins and Thompson",bank_transfer,operational,,False,,-6138.05,False
+63e78071-da23-4a16-8605-c2be79015e4b,2021-04-09,expense,Marketing,Stevens Group,card,salary,CTO,True,PRJ_020,-6318.01,False
+ffbc4636-8b0a-49b5-a82f-688ee9e358ee,2023-09-03,income,Sales,Davis Inc,bank_transfer,services,CFO,False,PRJ_018,13759.27,False
+40f388f3-6799-453a-8f46-2a5c6c7610c1,2021-01-02,income,HR,"Jones, Ramirez and Reed",bank_transfer,travel,CTO,False,PRJ_003,8278.21,False
+1e76b25f-c1b1-46cb-8c4d-c1220ccee190,2023-01-22,expense,Finance,"Watts, Lawson and Durham",bank_transfer,travel,COO,True,PRJ_008,-6990.81,False
+a4227a36-2e5a-40d4-8b79-24c84f5b7e5f,2022-06-05,expense,Finance,Davis Inc,bank_transfer,operational,CEO,False,PRJ_003,-6374.45,False
+e9671f00-ad24-4ff0-8420-b0c1d9cc46ee,2024-02-05,income,HR,Gonzalez Group,bank_transfer,operational,COO,False,PRJ_002,11844.52,False
+1ff3ed00-ced3-4d46-a0cc-7aea8d519386,2023-08-30,refund,Marketing,"Gonzalez, Campos and Smith",bank_transfer,travel,HR_Manager,False,PRJ_001,649.99,False
+5ce17872-502a-4d28-8cf4-c96ad15199f7,2021-08-05,expense,R&D,"Clark, Stuart and Bennett",card,software,HR_Manager,False,PRJ_018,-2745.25,False
+dafc678f-ba87-4638-a013-37f245082c64,2022-06-24,income,Sales,"Henry, Hill and Johnson",bank_transfer,operational,COO,False,PRJ_010,15053.05,False
+4d4f38db-4246-4333-bf41-c7f31121b66c,2021-04-30,income,IT,Stevens Group,card,software,HR_Manager,False,PRJ_003,9626.72,False
+0cecb07e-4252-4746-b1d2-fa0e508792b3,2023-05-26,expense,Sales,"Valdez, Robinson and Fernandez",card,software,HR_Manager,True,PRJ_013,-1760.35,False
+34787362-9094-41ef-807c-4ec90d0543c5,2022-12-21,expense,Marketing,Hicks and Sons,bank_transfer,training,CEO,False,PRJ_007,-3880.6,False
+a7e6c345-09ff-4d13-97fe-2603f2c7d8ac,2022-06-25,income,IT,"Valdez, Robinson and Fernandez",card,training,CFO,True,PRJ_010,13149.98,False
+8540b4bd-ea78-4a0a-9fcc-e454e94d7c08,2022-01-22,income,Marketing,"Jones, Ramirez and Reed",bank_transfer,salary,CTO,False,PRJ_012,10239.27,False
+7de19503-71d3-414e-af7e-c0a5e961bbce,2021-10-12,expense,R&D,"Jones, Ramirez and Reed",bank_transfer,hardware,HR_Manager,False,PRJ_009,-7992.4,False
+4c0a8dd6-2fb7-4b7d-ad8e-df8df1fbd9dd,2024-04-16,income,HR,Davis Inc,cash,salary,COO,False,PRJ_019,8093.73,False
+69f91fa0-28a1-40fa-9359-a423e6ae2bdd,2021-04-23,expense,R&D,"Jones, Ramirez and Reed",card,training,CTO,False,PRJ_014,-5605.92,False
+3dcbcc2e-dc00-4d8d-9b11-7a93ccbfb5f8,2023-12-01,income,Finance,Chan Ltd,bank_transfer,travel,COO,True,PRJ_011,11593.29,False
+6aef32a7-e324-4fa7-9e4c-241428880d23,2021-02-07,transfer,HR,"Valdez, Robinson and Fernandez",card,hardware,CTO,True,PRJ_013,-965.68,False
+1c5296eb-9f51-4fab-af5a-b1857b1f3fc4,2023-02-03,expense,Marketing,Smith Ltd,bank_transfer,operational,CFO,False,PRJ_014,-5005.5,False
+54831247-c7a2-4244-9637-199aaaac64ed,2024-05-04,expense,HR,Alexander and Sons,bank_transfer,services,CTO,False,PRJ_012,-6651.97,False
+1c7c3f0c-89a5-4189-b8a7-b428ae75ae71,2021-08-19,expense,Finance,"Valdez, Robinson and Fernandez",bank_transfer,training,CFO,False,PRJ_005,-5407.45,False
+dfa12162-2e34-4419-8479-5acc81c620fe,2022-10-20,income,R&D,"Lewis, Carroll and Walker",crypto,taxes,COO,False,PRJ_004,13434.28,False
+9b62a27c-7911-4cb4-91a9-47eff4398bf9,2023-01-24,expense,Sales,"Lewis, Carroll and Walker",bank_transfer,hardware,CEO,False,PRJ_010,-4240.9,False
+44af9d87-925e-42bc-a198-369eb3103172,2024-04-10,expense,R&D,"Gomez, Hopkins and Thompson",card,travel,CEO,False,PRJ_014,-6484.5,False
+e8497151-dc02-408e-a4af-08c8b4537c40,2022-01-05,expense,Marketing,Vance PLC,card,software,CTO,True,PRJ_011,-3430.44,False
+da959632-fb4e-42f9-a417-66a7438a98e5,2022-12-01,income,Marketing,"Watts, Lawson and Durham",card,salary,CEO,False,PRJ_018,10554.43,False
+4b398f10-9392-4944-9838-705d58a76895,2023-07-24,expense,R&D,Chan Ltd,card,software,CFO,False,PRJ_011,-6927.17,False
+346d27b8-ed2b-451e-88cc-721821f65660,2023-03-26,expense,R&D,"Russo, Johnson and Torres",card,travel,COO,False,PRJ_016,-3701.27,False
+c7d5efb4-6f52-4486-a20d-1d541d0c4014,2023-01-18,transfer,Sales,George-Carpenter,bank_transfer,travel,CEO,False,PRJ_015,-710.29,False
+a5338e7f-6697-466c-a010-280a29ac0881,2021-07-17,investment,Marketing,"Watts, Lawson and Durham",crypto,operational,CEO,False,PRJ_013,-12448.86,False
+101cad0b-d164-4b29-8119-e71105e5924a,2021-08-05,income,Marketing,"Valdez, Robinson and Fernandez",bank_transfer,software,CFO,False,PRJ_014,11131.28,False
+532850b7-f8e4-4c8d-916e-de08ff9a8f3a,2023-11-23,income,Finance,Alexander and Sons,crypto,hardware,HR_Manager,True,PRJ_016,12970.72,False
+1b6c7401-d958-4cb8-a776-8d323faa1ea8,2022-12-31,refund,Finance,Ford-Murphy,bank_transfer,software,CFO,False,PRJ_015,426.84,False
+306490e8-2598-4832-9877-78a5360c3af1,2023-05-01,income,R&D,Ford-Murphy,crypto,travel,CTO,False,PRJ_017,15053.74,False
+bbea0cad-225d-4852-bad5-7ca40b2201bc,2023-03-27,expense,R&D,"Jones, Ramirez and Reed",bank_transfer,travel,HR_Manager,False,PRJ_020,-5984.98,False
+82c7e985-c590-4b8f-9367-29edb5a4ab36,2022-02-05,expense,Finance,Stevens Group,bank_transfer,travel,COO,True,PRJ_011,-6782.43,False
+70111c94-5e32-4010-8c06-e28a10da2bc8,2021-07-20,transfer,HR,"Valdez, Robinson and Fernandez",card,services,CEO,False,PRJ_010,-1364.34,False
+f7bae9e2-9cd7-4244-b558-72d250f15bea,2023-10-22,income,Marketing,"Dixon, Sims and Garcia",bank_transfer,training,CEO,False,PRJ_018,10196.05,False
+db57e967-6db3-4d92-8d4e-f9c529b22d34,2024-02-20,expense,Finance,"Watts, Lawson and Durham",crypto,software,CTO,False,PRJ_018,-5196.79,True
+d9d77989-fac1-4c27-8725-5c6b81a3b70b,2023-09-19,expense,Sales,Hicks and Sons,bank_transfer,travel,CTO,False,PRJ_018,-6082.25,False
+7eb7fdd7-a675-4a83-b906-ea2c50c62c5b,2022-09-16,income,Finance,"Russo, Johnson and Torres",cash,software,CEO,False,PRJ_015,12422.39,False
+b7e68717-7a58-4639-b785-2501dfed9d91,2022-10-04,income,Sales,"Valdez, Robinson and Fernandez",card,software,HR_Manager,False,PRJ_014,9207.49,False
+acf1ad3d-baf4-4f7c-ba63-661118006566,2022-06-09,expense,HR,"Watts, Lawson and Durham",bank_transfer,operational,CFO,True,PRJ_014,-5668.27,False
+3933fca3-8290-45fc-87fa-f11ff9e634de,2021-05-27,expense,HR,Davis Inc,bank_transfer,salary,HR_Manager,True,PRJ_020,-3760.38,False
+8350dc41-9604-4cc5-bda0-5ba50ccda827,2023-03-03,expense,Sales,"Dixon, Sims and Garcia",card,training,CEO,False,PRJ_012,-3479.76,False
+15ae9166-f59e-4e60-9bcf-865fdd9f98f1,2021-05-03,expense,Finance,"Clark, Stuart and Bennett",bank_transfer,taxes,CFO,False,PRJ_017,-4570.35,False
+0eff25d7-cad5-4d31-b757-9a554b231543,2024-01-21,expense,Marketing,"Valdez, Robinson and Fernandez",card,hardware,CTO,True,PRJ_015,-4756.37,False
+baca0305-f15c-4ba7-83a6-c4a78fd7f933,2024-03-01,refund,Marketing,Smith Ltd,cash,travel,CTO,False,,317.14,False
+bcf4df80-2be5-4f0e-a213-ddfc1ba9d20c,2023-01-24,expense,HR,"Valdez, Robinson and Fernandez",card,services,CFO,True,PRJ_013,-5814.76,False
+3441333d-454c-40c5-8992-6b1551b3277a,2023-10-14,expense,Sales,"Jones, Ramirez and Reed",card,salary,CTO,False,PRJ_015,-6613.49,False
+b2a490d0-03bf-4238-92f3-e7aee08bec6b,2023-04-04,expense,IT,Hicks and Sons,cash,,COO,False,PRJ_005,-4676.44,True
+dc94cf46-8115-468f-a234-0f3def686141,2022-01-08,expense,Sales,Davis Inc,crypto,taxes,CFO,False,PRJ_013,-5641.12,False
+e89e2fd0-7dfc-41ce-8143-bc54ce0a1c94,2022-05-08,income,R&D,Hays-Thomas,card,travel,CTO,False,PRJ_011,7535.59,False
+38649466-3029-49ad-ae53-c4afe262d8b1,2022-06-09,expense,Marketing,"Watts, Lawson and Durham",bank_transfer,salary,CEO,False,PRJ_014,-4714.38,False
+0f94cbde-ba13-48c7-aa18-1e735703f65c,2023-08-20,expense,HR,Alexander and Sons,cash,taxes,CFO,False,PRJ_007,-2633.35,False
+a937c5ba-017f-4175-8dfb-575b69a5f088,2022-04-12,expense,R&D,"Alexander, White and Banks",bank_transfer,salary,CTO,True,PRJ_004,-5524.29,False
+30dc71c7-c5e8-4aea-a52f-14e34d402108,2023-11-06,investment,R&D,"Valdez, Robinson and Fernandez",bank_transfer,hardware,CEO,False,PRJ_004,-10598.57,False
+4f441ff3-f7b3-44dd-bd17-199d14b3e20c,2024-02-25,expense,HR,Hicks and Sons,bank_transfer,training,CFO,False,PRJ_016,-7270.93,False
+c210e5be-66d8-41ba-ba4d-f59f6d25b73a,2021-06-09,expense,IT,"Valdez, Robinson and Fernandez",bank_transfer,travel,CEO,False,PRJ_012,-4613.36,False
+1c6bbe49-0f50-41d4-994b-223cf131cc21,2023-12-30,expense,Sales,"Russo, Johnson and Torres",card,operational,CTO,True,PRJ_012,-6151.89,False
+477639b1-1cdc-4871-97a9-93637bd7e1ed,2023-01-29,income,R&D,"Bean, Gonzales and Martin",cash,travel,CEO,True,PRJ_019,9016.17,False
+ffa5a6b0-afa2-43b0-bcea-b5f011c29449,2021-12-04,expense,R&D,Chan Ltd,bank_transfer,taxes,CEO,False,PRJ_019,-5031.84,False
+c2a572bf-9e04-461d-a24f-4ea961731456,2022-05-20,income,Finance,Davis Inc,cash,salary,CEO,True,PRJ_020,12280.97,False
+15cd178d-35be-46e2-822a-adddaf7598b8,2022-01-15,expense,Sales,George-Carpenter,crypto,hardware,CEO,True,PRJ_016,-30.06,False
+50a8bf4c-1944-492f-b90e-6a9452aec98a,2021-06-30,investment,Sales,Hays-Thomas,cash,software,CTO,False,PRJ_007,-9014.07,True
+ee39f37e-ad94-49b5-b9e6-44293971bf86,2021-09-15,expense,HR,Davis Inc,bank_transfer,salary,CEO,False,PRJ_017,-4333.52,False
+1a1d8581-9771-4024-aa85-614aa2e213b7,2023-05-19,income,R&D,"Valdez, Robinson and Fernandez",crypto,hardware,HR_Manager,True,PRJ_018,15092.3,False
+202f5ecb-e32a-41da-8a2a-ea2a7872a027,2023-07-25,expense,Finance,Vance PLC,cash,travel,CFO,False,PRJ_004,-6110.62,True
+34184e82-bdad-49ef-ac25-3944b852dbb6,2021-12-04,refund,HR,"Gonzalez, Campos and Smith",card,hardware,CEO,False,PRJ_002,537.51,False
+df4a7466-6800-404a-ad86-9988af8ebcd1,2021-01-21,income,IT,Hays-Thomas,bank_transfer,services,CEO,False,PRJ_010,7752.35,False
+0f887b75-c423-46ab-a2d5-3e9365fd822e,2022-10-26,expense,HR,George-Carpenter,cash,software,CFO,False,PRJ_006,-6856.29,True
+f0a0383b-c851-423f-a75c-2cbf92f9a42f,2023-10-12,expense,Sales,George-Carpenter,bank_transfer,services,CFO,False,PRJ_001,-5424.86,False
+0afddb44-971f-4ff0-9eff-29531a42da61,2023-12-18,income,Finance,"Gomez, Hopkins and Thompson",card,training,COO,False,PRJ_004,8336.99,False
+6775f6d2-f8d0-4dcc-a0df-029430bc3dd0,2023-10-14,income,HR,Davis Inc,cash,software,CEO,True,PRJ_011,9680.54,False
+993c7196-c097-4db0-8a89-9a3374610b09,2021-06-02,refund,R&D,"Valdez, Robinson and Fernandez",crypto,hardware,CFO,True,PRJ_009,167.1,False
+d307868d-9574-4987-a83b-2a81cc172f42,2021-06-22,expense,Finance,"Watts, Lawson and Durham",card,travel,CEO,False,PRJ_014,-5580.07,False
+da34d275-367f-4204-a8b0-0efc34bea6a4,2024-02-04,expense,R&D,"Russo, Johnson and Torres",card,taxes,CTO,False,PRJ_011,-5553.27,False
+84bbeaa5-9313-44bc-b06c-1466602d6383,2022-07-24,expense,IT,"Clark, Stuart and Bennett",card,training,COO,False,PRJ_020,-5556.24,False
+65a4fa6f-281d-4709-8e1e-9fa1aa5d569e,2022-07-17,expense,HR,"Jones, Ramirez and Reed",bank_transfer,salary,CEO,False,PRJ_020,-6781.78,False
+4dfc803f-8911-4efc-a0a9-66cfb5271ece,2022-06-02,income,HR,Gonzalez Group,card,operational,COO,False,PRJ_001,11671.91,False
+810125c9-a01b-4d70-8531-dc795bd5321f,2022-09-20,transfer,IT,Vance PLC,card,hardware,CEO,False,PRJ_003,-1262.69,False
+d096fcb5-7e71-4f92-bd59-6d5640865ea8,2023-05-22,expense,IT,,crypto,salary,CEO,False,PRJ_011,-7948.47,False
+b4e69ae0-709a-4fdb-b679-5c22790535a6,2021-01-23,income,Finance,"Clark, Stuart and Bennett",card,travel,,False,PRJ_018,9013.17,False
+5976fb23-c96a-4a3e-8a37-2e2766041ddf,2024-03-26,expense,Marketing,"Valdez, Robinson and Fernandez",bank_transfer,software,CTO,True,PRJ_013,-1755.0,False
+4c5cd8c3-9e8a-4c26-978a-bc915dd7b0ca,2024-03-08,expense,Sales,"Gomez, Hopkins and Thompson",bank_transfer,hardware,CFO,True,PRJ_017,-6002.74,False
+d5e02cae-6129-4535-be02-9ebaef004f63,2021-12-12,expense,HR,Stevens Group,card,travel,COO,False,PRJ_007,-2088.84,False
+4717f900-b545-46e2-87e0-dfcd707a7319,2022-03-21,expense,IT,Vance PLC,bank_transfer,operational,CEO,False,PRJ_015,-5326.45,False
+64712e86-c7ff-4d1e-9b64-cb5868ae910f,2024-04-28,expense,R&D,"Valdez, Robinson and Fernandez",crypto,software,COO,False,PRJ_018,-3808.6,False
+ae9c677e-a32e-498c-a245-ffee4b9b97af,2021-07-07,transfer,Marketing,Davis Inc,bank_transfer,travel,HR_Manager,False,PRJ_008,-791.54,False
+4499b789-bf98-4f38-8971-4ea90c464b10,2022-11-22,income,Marketing,"Bean, Gonzales and Martin",cash,services,HR_Manager,False,PRJ_007,6549.48,False
+0b3c16ae-b69e-4a50-b69d-3b1eb8168a0e,2022-08-01,expense,Sales,Page Ltd,cash,salary,CFO,True,PRJ_014,-4817.8,True
+1931bed8-8796-49bf-a078-87d04eebe0e9,2021-04-09,expense,Sales,Vance PLC,card,training,COO,False,PRJ_003,-5268.29,False
+a4c36022-0b33-433b-a2fd-349f4b9d0b4d,2023-10-17,expense,R&D,"Valdez, Robinson and Fernandez",bank_transfer,taxes,CTO,True,PRJ_010,-2108.27,False
+4a89aa49-e9cd-45d8-becb-45d9f6339306,2024-01-29,expense,R&D,"Alexander, White and Banks",bank_transfer,services,CEO,False,PRJ_007,-7416.36,False
+e21e0dd4-ab20-482f-b00f-5cbc61ccb4b9,2023-07-18,expense,IT,"Jones, Ramirez and Reed",card,operational,CTO,True,PRJ_006,-3640.85,False
+05254435-9b76-4eff-b091-b4d4eefb2e42,2023-01-09,income,Marketing,"Jones, Ramirez and Reed",bank_transfer,hardware,CFO,True,PRJ_019,9910.78,False
+b9c3acc0-92dd-45aa-9e1e-ed22453a337f,2021-07-22,refund,Sales,"Watts, Lawson and Durham",cash,hardware,CEO,False,PRJ_012,282.13,False
+9335bbf9-79d6-4778-84fe-4058af892b85,2023-02-23,investment,IT,"Bean, Gonzales and Martin",bank_transfer,,CFO,False,PRJ_011,-20421.05,False
+2fa0bb33-f2a3-4616-8f4a-ba2d7cdc78a6,2023-01-11,expense,Sales,"Dixon, Sims and Garcia",bank_transfer,operational,HR_Manager,False,PRJ_005,-1120.02,False
+f29b308c-9dba-462e-96d1-aae4f8ef59cf,2023-10-06,income,R&D,"Gomez, Hopkins and Thompson",card,operational,CEO,False,PRJ_010,12592.73,False
+a7a93b49-9e5a-48c2-b68e-58fe5576afd7,2021-11-01,expense,Finance,"Henry, Hill and Johnson",card,travel,HR_Manager,True,PRJ_007,-3763.78,False
+d680f969-ca65-4ae3-8ff4-8c27eae0f509,2022-09-25,expense,Marketing,"Gomez, Hopkins and Thompson",bank_transfer,taxes,CEO,False,PRJ_016,-4053.9,False
+3634d53c-3654-4e0c-85a0-4dfe94e148ef,2024-01-28,income,Finance,Stevens Group,crypto,taxes,CTO,False,PRJ_014,9171.04,False
+563dca3b-f9c3-4790-9dc5-7f473dc59c17,2021-01-12,expense,IT,Bauer PLC,bank_transfer,salary,,True,PRJ_005,-4751.85,False
+396c5a2d-ed37-4301-9c54-f368f59fb94a,2023-03-07,expense,R&D,Page Ltd,card,training,CFO,False,PRJ_013,-4244.34,False
+89bf790f-59f4-4980-ba94-d461b478c51d,2021-03-29,refund,R&D,"Jones, Ramirez and Reed",bank_transfer,software,CTO,False,PRJ_002,377.62,False
+afd984eb-09de-432b-9fcb-74c4f88e54c7,2023-10-10,transfer,Finance,Hicks and Sons,bank_transfer,salary,HR_Manager,False,PRJ_014,-756.05,False
+4478e7aa-6127-425a-b656-013c6e91ba21,2024-04-12,income,HR,Ford-Murphy,card,taxes,CEO,False,PRJ_016,12129.35,False
+de8592bd-c092-48a0-8cf3-18eb31bfe6a3,2024-02-22,expense,IT,"Valdez, Robinson and Fernandez",cash,services,HR_Manager,False,PRJ_001,-4831.35,True
+c4ca6304-f3c1-4a9e-842a-659afb557a0b,2022-04-30,income,Marketing,"Valdez, Robinson and Fernandez",bank_transfer,taxes,CFO,False,PRJ_012,8897.77,False
+d966a2ad-2788-4b68-85c8-ec6cd40aad76,2021-03-21,expense,HR,Vance PLC,bank_transfer,services,HR_Manager,False,PRJ_013,-5323.11,False
+24c9a8fb-338f-4c6f-916a-a1800c6e1e14,2021-01-18,income,R&D,"Dixon, Sims and Garcia",card,training,CTO,False,PRJ_016,8670.72,False
+814f82f1-1d21-47ff-a6e6-e06dc5800f3c,2021-12-24,expense,R&D,Chan Ltd,bank_transfer,salary,CTO,True,PRJ_015,-6681.21,False
+4717ea76-f228-4433-a3c2-0d322a7d1462,2023-02-15,income,R&D,"Valdez, Robinson and Fernandez",crypto,travel,,True,PRJ_015,3826.1,False
+8d1d11c7-6cde-4b07-9a68-4c580e214e71,2021-01-15,expense,Sales,"Dixon, Sims and Garcia",cash,salary,CTO,False,PRJ_003,-4955.59,False
+6c051c77-f9d8-4e05-9ce5-1ae320f5cdae,2022-11-07,transfer,Marketing,Hood Ltd,cash,training,CEO,False,PRJ_019,-1579.14,False
+d8aa9c11-9bd9-459c-9978-fe5a90463d09,2022-02-05,investment,Sales,Davis Inc,cash,services,CTO,False,PRJ_009,-17808.91,False
+8f1f37f7-edbb-4854-9a67-dc26c706a11c,2021-11-14,expense,Sales,Hood Ltd,card,operational,CTO,True,PRJ_020,-3783.54,False
+8f1c52c1-eed5-4598-b141-3e270d889c6d,2022-09-09,expense,Sales,"Henry, Hill and Johnson",card,software,HR_Manager,False,PRJ_006,-5253.76,False
+84ce6228-390e-4b7c-a5c4-0c4b1f23b524,2024-03-17,expense,Finance,"Lewis, Carroll and Walker",card,taxes,CTO,False,PRJ_003,-7818.21,False
+03bf1621-3b18-4829-950d-6488420a5ecf,2023-12-13,expense,Marketing,"Patterson, Harding and Phillips",bank_transfer,operational,HR_Manager,True,PRJ_004,-6401.07,False
+6e395228-c3d9-4b8c-8805-326d13e499ba,2022-01-27,expense,Finance,"Gonzalez, Campos and Smith",bank_transfer,training,CEO,False,PRJ_002,-6666.59,False
+8440de5f-6d44-4030-abc4-3efc93c28739,2024-03-30,expense,HR,Hood Ltd,cash,training,CFO,False,PRJ_005,-4404.79,False
+6ce12a70-a0d0-420c-98ca-ddba97fe248d,2023-03-27,expense,Finance,"Gonzalez, Campos and Smith",card,software,CTO,False,PRJ_011,-3416.41,False
+f896285c-e264-4fca-981f-e5f4dfa2863b,2023-03-17,expense,Sales,"Jones, Ramirez and Reed",bank_transfer,operational,CEO,False,PRJ_015,-5455.78,False
+94a6376e-0cab-4bb2-8723-04b646085893,2022-04-18,expense,HR,Ford-Murphy,card,operational,COO,False,PRJ_001,-4932.2,False
+c8127d4b-56c0-46a1-828d-2f13fe1591b1,2022-07-18,expense,Marketing,"Dixon, Sims and Garcia",card,training,CTO,False,PRJ_016,-7770.86,False
+7d765659-6c44-4152-a3dd-dbda98560716,2022-10-10,expense,Finance,Stevens Group,card,services,COO,False,PRJ_017,-2419.48,False
+58d9c731-30f5-4232-a991-b7943c0d0eab,2023-08-06,transfer,IT,Alexander and Sons,bank_transfer,operational,CEO,False,PRJ_009,-1163.31,False
+c94e9b8f-b371-48ea-a366-25c1bd85b50d,2022-05-18,expense,Finance,Smith Ltd,crypto,training,,False,PRJ_009,-4941.79,True
+000b692a-2f68-40fd-8cd2-6addb666271e,2022-07-14,income,Marketing,"Henry, Hill and Johnson",bank_transfer,software,CTO,False,PRJ_012,7347.52,False
+23c9e8c6-8f30-4881-be2b-9703793f0cf3,2023-07-01,expense,Sales,"Gonzalez, Campos and Smith",bank_transfer,operational,HR_Manager,False,PRJ_001,-1988.91,False
+74208ee7-d257-4afe-bb34-ee37a8ee1526,2022-11-18,expense,R&D,"Lewis, Carroll and Walker",cash,training,CFO,False,PRJ_011,-5877.49,True
+8eede370-4e6e-4af3-a9b6-207f26618596,2024-02-01,expense,Finance,"Valdez, Robinson and Fernandez",cash,training,CEO,False,PRJ_006,-8242.79,False
+593ac83c-fea8-41a6-a407-e24a46272fb0,2021-03-31,income,IT,"Alexander, White and Banks",card,training,HR_Manager,False,PRJ_015,4955.27,False
+d671f35c-396d-400b-9475-742ecfe0b7f0,2024-04-03,expense,Finance,"Valdez, Robinson and Fernandez",card,operational,CFO,False,PRJ_018,-3381.77,False
+35b49383-13b8-42a9-8896-c1aabe095fbf,2024-05-04,expense,Finance,"Clark, Stuart and Bennett",cash,hardware,HR_Manager,False,PRJ_004,-5505.9,True
+64b28fab-4825-4b7e-9a3a-862c41702f12,2023-05-04,income,Marketing,Gonzalez Group,bank_transfer,operational,CEO,False,PRJ_010,8589.27,False
+d7c2e4af-bc11-4f94-a96c-8f11fc79b6cd,2022-05-26,expense,IT,"Watts, Lawson and Durham",bank_transfer,services,HR_Manager,False,PRJ_013,-3472.6,False
+237daea4-87f5-4e08-991b-7fdd7f89bcaa,2022-02-02,expense,IT,"Henry, Hill and Johnson",bank_transfer,hardware,COO,False,PRJ_013,-6841.17,False
+f8091d18-aa4c-4e5f-af51-eb29d6f32814,2021-01-22,expense,Sales,Stevens Group,bank_transfer,hardware,HR_Manager,False,PRJ_006,-3294.81,False
+f84a22ba-c60f-4985-bc3d-d1069b51d3dd,2022-05-14,transfer,Finance,Hicks and Sons,bank_transfer,taxes,COO,False,PRJ_005,-1637.25,False
+1764d069-a7d3-458a-bacb-159c91709fbc,2024-05-26,income,Marketing,Hays-Thomas,card,software,CEO,False,PRJ_012,6860.94,False
+22bf3b62-8363-488c-b747-bc1abd01f798,2023-12-23,expense,IT,Davis Inc,bank_transfer,software,COO,False,PRJ_002,-3471.79,False
+d6b73702-795e-43cc-b1c5-66a618f6c29a,2022-09-28,expense,Sales,"Alexander, White and Banks",bank_transfer,taxes,CEO,False,PRJ_014,-3756.96,False
+03831510-25a6-4b27-b3ea-6b97a74e374e,2023-05-31,income,R&D,"Henry, Hill and Johnson",bank_transfer,,COO,False,PRJ_016,8638.62,False
+fe70d3dc-b42d-4574-9f39-249999ce6d09,2023-08-14,expense,R&D,"Lewis, Carroll and Walker",bank_transfer,taxes,COO,True,PRJ_007,-4871.67,False
+d4296f93-70e7-457b-9b81-f594dea35900,2022-04-19,refund,R&D,Stevens Group,crypto,hardware,CFO,True,PRJ_015,482.55,False
+d0e71f84-91a6-4cf1-9326-3cae00eb897c,2022-11-16,expense,Sales,Hood Ltd,bank_transfer,software,CEO,False,PRJ_016,-6072.34,False
+f9b30998-bd65-4aea-840f-8a6b195dd348,2022-10-08,income,R&D,"Patterson, Harding and Phillips",bank_transfer,software,,False,PRJ_004,11136.43,False
+fc35aa0a-270c-41ec-96d4-b50c9c206498,2022-12-01,expense,Marketing,"Valdez, Robinson and Fernandez",bank_transfer,travel,HR_Manager,False,PRJ_004,-5661.96,False
+7513faf5-30c3-485f-998d-c57769cafcc6,2021-01-17,expense,Sales,Blankenship and Sons,cash,software,CEO,False,PRJ_006,-5441.29,True
+12821c73-3b13-4991-aafb-540de0e13ff5,2021-06-16,transfer,Finance,"Jones, Ramirez and Reed",bank_transfer,hardware,CFO,False,PRJ_015,-1662.04,False
+cdae37da-4ec2-4e79-86a1-c08340a04909,2023-04-03,expense,IT,George-Carpenter,card,hardware,HR_Manager,False,PRJ_019,-2612.71,False
+5c9357b8-90d9-4d97-8c8b-cc1d468d9955,2023-11-23,income,R&D,"Valdez, Robinson and Fernandez",card,operational,CEO,True,,11455.0,False
+e0e0b41b-896c-492b-ba57-fa61fc8ecad5,2022-08-30,expense,HR,"Valdez, Robinson and Fernandez",bank_transfer,taxes,HR_Manager,False,PRJ_011,-7952.13,False
+e8d19c6d-8b7e-4c80-aefa-8f1ca377442e,2022-09-26,income,Sales,Hays-Thomas,bank_transfer,taxes,CFO,True,PRJ_020,10986.8,False
+d8f87677-296d-42a2-8254-07216a3b6680,2021-04-04,expense,R&D,Ford-Murphy,bank_transfer,software,CTO,False,PRJ_005,-6142.75,False
+0341c8ef-4035-4b32-b0c2-19420f995cae,2023-05-05,expense,HR,"Lewis, Carroll and Walker",bank_transfer,training,CTO,False,PRJ_012,-4557.04,False
+224a1e68-51b8-4c0a-b48a-1b60c3787950,2021-02-04,investment,IT,"Jones, Ramirez and Reed",bank_transfer,operational,CFO,False,PRJ_016,-5483.54,False
+109135f3-8e50-4694-8d82-fc8a606baa9c,2023-12-29,investment,Marketing,"Patterson, Harding and Phillips",bank_transfer,taxes,CTO,False,PRJ_017,-20610.77,False
+251a11d1-99da-4293-8a7a-02c09dcab23b,2021-08-30,income,Finance,Page Ltd,bank_transfer,taxes,CTO,False,PRJ_003,5532.56,False
+8d846fd0-7a37-4fc1-b166-a37949f6afba,2022-02-23,income,R&D,Ford-Murphy,bank_transfer,services,HR_Manager,True,PRJ_020,8085.17,False
+950a5073-b68a-48f9-96da-8749c800a913,2021-10-11,expense,R&D,"Alexander, White and Banks",bank_transfer,training,CTO,False,PRJ_012,-4023.79,False
+511ad375-d5e9-4ff0-a508-4997c91f42a1,2023-03-16,refund,Sales,Bauer PLC,bank_transfer,salary,COO,False,PRJ_011,387.0,False
+45b8f78c-2d7f-40c8-8e34-0d8f9c484e7e,2024-04-30,expense,R&D,"Watts, Lawson and Durham",card,software,CTO,False,PRJ_011,-4673.19,False
+fdb3a8e7-8556-4442-920b-c2669d75b230,2021-02-10,investment,Marketing,Stevens Group,bank_transfer,training,CTO,True,PRJ_016,-18404.41,False
+095501b9-45fd-4ccc-b4ea-a23d238d551b,2022-02-01,transfer,Marketing,Chan Ltd,cash,travel,CTO,False,PRJ_002,-1304.95,False
+8da94ad5-509c-476e-8003-d291a2212110,2023-12-03,expense,Finance,"Jones, Ramirez and Reed",bank_transfer,training,HR_Manager,True,PRJ_017,-2083.95,False
+375420b0-92fa-4d47-b307-ba350bdbfbc3,2022-05-03,expense,Marketing,"Lewis, Carroll and Walker",cash,training,CFO,True,PRJ_012,-10176.83,False
+773e60eb-f908-4056-a7c8-0440d007cff1,2024-01-25,expense,Marketing,"Alexander, White and Banks",card,services,CTO,True,PRJ_011,-5233.02,False
+5d75ed59-48ed-46b8-95a1-67b56ae78893,2023-07-09,income,HR,Bauer PLC,card,taxes,CFO,False,PRJ_015,13549.68,False
+8e69f84e-83d8-48e1-9cf7-5952816635a5,2024-01-15,investment,Sales,"Alexander, White and Banks",card,services,COO,False,PRJ_005,-12630.33,False
+bbe19c5a-7582-49e4-ad91-a721afb1a806,2023-05-29,income,Finance,Hays-Thomas,bank_transfer,services,COO,True,PRJ_015,7395.81,False
+d7f8d402-6060-4f36-b112-19344432f2cb,2022-11-30,investment,Marketing,Davis Inc,bank_transfer,operational,CFO,False,PRJ_009,-7123.05,False
+673361a6-a845-413b-9b0d-769881901d08,2022-08-11,investment,Sales,"Patterson, Harding and Phillips",cash,services,CTO,False,PRJ_002,-14826.88,True
+b2c39d3a-1aa8-48b7-8e1f-9d8e08a6ea0c,2022-04-01,income,Marketing,Chan Ltd,card,operational,HR_Manager,False,PRJ_001,12357.44,False
+a8b59caa-e7b8-4dd3-be6b-7d95c432a63a,2021-09-11,transfer,Sales,Davis Inc,crypto,services,HR_Manager,False,PRJ_012,-1394.92,False
+d6db95df-52cc-4c2a-a8ad-022b81be58ed,2022-03-29,income,IT,"Dixon, Sims and Garcia",bank_transfer,software,CFO,True,PRJ_009,8351.19,False
+a5c654bf-e6c8-405c-a0df-3635ea3719ad,2022-04-22,expense,HR,"Gonzalez, Campos and Smith",card,salary,CEO,True,PRJ_017,-5268.31,False
+45b3c274-8080-4e2a-bb87-54555a4ee769,2021-10-06,investment,Sales,Page Ltd,bank_transfer,training,HR_Manager,False,PRJ_009,-3046.17,False
+cbbfe049-57c9-4919-9a8d-dce2f712bbb7,2023-10-01,expense,Marketing,Stevens Group,bank_transfer,training,CFO,True,PRJ_017,-6151.76,False
+bcd4e57a-7ef2-4411-a20d-adb3b0ed6aa4,2022-09-26,investment,Sales,"Valdez, Robinson and Fernandez",card,travel,CFO,False,PRJ_019,-15152.01,False
+6fa71e56-2e4f-4a53-915c-f8963e36f0fd,2022-09-20,expense,IT,"Jones, Ramirez and Reed",card,services,CEO,True,PRJ_004,-3125.35,False
+fa4f52ff-b9c5-4119-b11f-826f175dad1a,2023-11-05,refund,Finance,Blankenship and Sons,card,salary,CEO,False,PRJ_001,663.37,False
+55fe86b4-8515-4dee-902b-da7806097e28,2023-06-15,expense,HR,Smith Ltd,cash,salary,CEO,False,PRJ_002,-8378.91,True
+76a11754-0450-4d4b-b99c-0c35a1fafe96,2024-01-28,transfer,Finance,Chan Ltd,bank_transfer,hardware,COO,False,PRJ_003,-1273.06,False
+f6c759f0-00d2-4777-93c0-deecd4260ac2,2021-05-24,transfer,IT,"Valdez, Robinson and Fernandez",crypto,services,CTO,False,PRJ_014,-86.37,False
+4fa9c5f8-df14-4bc8-ae59-161e9e6bb9e0,2024-02-18,expense,Finance,Vance PLC,bank_transfer,software,HR_Manager,False,PRJ_003,-6034.27,False
+2390d8b4-c5ba-4837-9ab4-13cf71d1d080,2024-02-14,expense,Marketing,,bank_transfer,travel,CTO,False,PRJ_006,-3276.37,False
+0ffa17aa-dced-4c72-b300-df31f2d3562f,2024-05-03,expense,HR,Hood Ltd,card,hardware,,False,PRJ_013,-4422.74,False
+81687919-a10f-4781-a33f-4d9b03c91022,2023-09-20,expense,Marketing,Hicks and Sons,card,software,CFO,True,PRJ_012,-4442.02,False
+abf3cdd7-732f-4e91-9024-2ebbeb73bc3b,2022-10-02,income,Finance,Davis Inc,crypto,travel,CEO,True,PRJ_019,10958.9,False
+58de4f41-d3f1-46f6-a512-fa46b6e4af5b,2022-12-28,expense,Finance,"Watts, Lawson and Durham",card,training,CEO,False,PRJ_007,-1983.9,False
+fce7b74a-f48c-4c9a-96d0-d3d4787e14fd,2022-04-21,income,Sales,"Watts, Lawson and Durham",bank_transfer,travel,CTO,False,PRJ_001,10149.01,False
+0e806352-928a-498b-be5c-390011c39e60,2022-04-01,income,Sales,Gonzalez Group,card,taxes,CFO,False,PRJ_019,9823.71,False
+f12d790a-7ef1-44e0-a413-de90fd76d102,2023-12-18,investment,Sales,Hays-Thomas,cash,travel,COO,False,PRJ_009,-16818.52,True
+b5e5062c-4339-4e7c-806e-be6709b52a39,2022-10-05,expense,R&D,,crypto,taxes,HR_Manager,True,PRJ_008,-558.63,False
+029d5d96-0096-4aee-b2dc-1663ad178499,2022-10-03,expense,HR,Ford-Murphy,cash,services,HR_Manager,False,PRJ_008,-3519.19,False
+12bd8c1f-3b4c-48de-b882-7e187bfcd58c,2022-11-13,income,Marketing,George-Carpenter,cash,services,HR_Manager,True,PRJ_002,15419.6,False
+f3789dc3-c757-4a19-9e4e-8a3fdbdd1528,2021-11-10,expense,Sales,Stevens Group,bank_transfer,services,CEO,True,PRJ_010,-4237.51,False
+60f87f96-7dd8-4399-b6bf-ccae2d6f9380,2024-05-23,income,Marketing,"Bean, Gonzales and Martin",card,software,CFO,True,PRJ_013,17324.51,False
+7fcdf0ac-8c61-4e7c-9f86-d8fc8b46cb6c,2022-05-07,income,R&D,"Valdez, Robinson and Fernandez",bank_transfer,services,HR_Manager,False,PRJ_006,8379.69,False
+5ecb3449-13fb-4460-87c1-55c073b194c4,2021-10-04,expense,Marketing,Ford-Murphy,crypto,taxes,CEO,False,PRJ_019,-5720.21,False
+03c5d429-26aa-4428-894b-456b520c1e10,2021-09-04,income,Finance,Ford-Murphy,bank_transfer,salary,COO,False,PRJ_007,10045.68,False
+77246a18-9fa0-4c65-b587-1f73a99e31fe,2021-04-25,expense,Sales,"Valdez, Robinson and Fernandez",bank_transfer,hardware,CEO,False,PRJ_003,-3986.25,False
+9c6c3cb2-abcd-4078-91d0-126944328d8a,2024-01-10,expense,HR,"Patterson, Harding and Phillips",bank_transfer,hardware,COO,True,PRJ_014,-4040.64,False
+12adf0b1-be68-4608-ad9e-63e84009910e,2022-11-17,income,Marketing,"Dixon, Sims and Garcia",bank_transfer,software,CFO,False,PRJ_004,8988.44,False
+73df4642-5968-4de1-9408-69da70cea98a,2024-02-23,income,Sales,Davis Inc,cash,training,CTO,False,PRJ_017,13977.91,False
+a1f24f4f-6741-47b5-8ab6-bbd97450593f,2022-02-22,expense,R&D,Smith Ltd,bank_transfer,travel,CTO,True,PRJ_015,-6043.81,False
+4ffeba41-b572-4bec-90a2-20edbf512f43,2021-11-17,expense,Sales,"Patterson, Harding and Phillips",bank_transfer,taxes,COO,True,PRJ_020,-7122.59,False
+38f13d81-e6f1-4872-b22c-8fde8946faf6,2024-04-14,income,IT,"Alexander, White and Banks",card,operational,COO,False,PRJ_011,14230.64,False
+531c6063-0d8d-416c-b3b8-124472b49e5e,2023-06-17,expense,Marketing,"Valdez, Robinson and Fernandez",card,salary,COO,False,PRJ_020,-8126.18,False
+8f617608-12d4-4a43-b405-08aea640810c,2023-09-30,investment,Sales,Ford-Murphy,card,taxes,HR_Manager,False,PRJ_020,-11280.49,False
+5e1ea68c-5744-4657-80cd-7409e76e3c0e,2023-05-07,expense,Marketing,Hays-Thomas,bank_transfer,salary,CEO,False,PRJ_015,-10021.67,False
+dc979eb1-3331-4b90-a63b-2c66ade11913,2021-02-04,income,Marketing,"Dixon, Sims and Garcia",bank_transfer,software,COO,False,PRJ_010,13348.74,False
+7576d788-00d5-42ab-99e7-b46395544bbb,2024-01-28,refund,Finance,"Bean, Gonzales and Martin",bank_transfer,operational,CFO,False,PRJ_002,497.97,False
+3ea565ce-fdbb-4f13-a03c-76fd48ccd418,2022-01-31,expense,HR,"Valdez, Robinson and Fernandez",card,hardware,CTO,False,PRJ_012,-6348.38,False
+9231704a-54be-4a97-911a-570c8e93ae13,2024-04-20,expense,Finance,Hicks and Sons,bank_transfer,services,CTO,True,PRJ_018,-3873.73,False
+1d6e6667-bbe8-4915-bb31-637b7463ddbb,2022-01-23,expense,HR,"Gonzalez, Campos and Smith",bank_transfer,salary,HR_Manager,False,PRJ_007,-8111.94,False
+c2419bf2-b004-494a-b414-ff0fe36fe85a,2024-04-18,expense,R&D,Davis Inc,bank_transfer,travel,HR_Manager,False,PRJ_018,-4371.04,False
+4e1bff86-037c-475f-a2d0-f5faeb7458c0,2021-01-27,investment,Marketing,"Clark, Stuart and Bennett",card,services,CFO,False,PRJ_016,-22313.83,False
+c85951f8-23cc-4d48-a810-cfabbd7f8966,2022-03-08,expense,Marketing,"Russo, Johnson and Torres",bank_transfer,training,CTO,False,PRJ_002,-3293.16,False
+a39f641f-6fd5-4074-88f2-102ca8a3493c,2021-06-07,expense,R&D,Davis Inc,bank_transfer,services,CTO,False,PRJ_006,-5189.25,False
+6a64e12f-a80e-426e-8b20-6f9afe00c884,2021-06-22,expense,Marketing,Alexander and Sons,bank_transfer,training,COO,False,PRJ_016,-3459.5,False
+ff6384c9-a163-43bb-8c5a-b23969168b35,2024-02-16,expense,IT,Hood Ltd,cash,operational,CFO,False,PRJ_002,-1670.4,False
+764a6322-71f6-4ed9-9feb-67b024d9bd0d,2021-12-23,expense,R&D,"Jones, Ramirez and Reed",card,salary,CFO,False,PRJ_012,-5288.58,False
+ddf26893-0d6f-4bdf-9852-34fdf85466ad,2022-11-15,expense,HR,Davis Inc,bank_transfer,services,CTO,False,PRJ_018,-5441.88,False
+b0d9eff8-66d7-4594-92d4-e6bcc670aa60,2023-05-14,expense,IT,"Patterson, Harding and Phillips",cash,training,COO,False,PRJ_004,-4196.16,True
+60e89bea-43c9-4ce4-ab08-834b00fd4ec5,2021-09-03,refund,R&D,Davis Inc,cash,travel,CTO,False,PRJ_018,606.73,False
+c1c2d6f5-d57d-46c7-a62f-91e97817bbbc,2024-01-03,expense,Marketing,"Alexander, White and Banks",bank_transfer,salary,CEO,False,PRJ_003,-8265.76,False
+8b6a88f4-4a93-4339-9b15-26d823e87ed6,2021-03-31,expense,IT,Gonzalez Group,bank_transfer,software,HR_Manager,False,PRJ_007,3.29,False
+650e6db2-bbdf-4417-b0c4-4998cd7d2b94,2021-07-22,income,IT,Alexander and Sons,bank_transfer,taxes,CFO,False,PRJ_015,6586.79,False
+0fa53983-fe00-4613-a43c-7296dfca6734,2021-07-09,expense,HR,,card,taxes,CTO,True,PRJ_005,-4216.66,False
+04cf0025-d95d-409a-9bad-3b0305679a2a,2022-09-05,expense,IT,Davis Inc,bank_transfer,services,COO,True,PRJ_012,-2540.45,False
+86208655-2045-470e-b886-0babfda5a862,2021-09-10,expense,IT,"Valdez, Robinson and Fernandez",bank_transfer,travel,CEO,False,PRJ_020,-758.86,False
+be6c5d3c-52f0-43b7-956a-8e46550d923a,2023-04-16,transfer,IT,Patton-Franklin,card,salary,CTO,False,PRJ_014,-476.07,False
+b951ce3c-4a9d-4869-8c48-af2f8163f8cd,2021-12-14,income,Marketing,"Gonzalez, Campos and Smith",card,salary,CTO,True,PRJ_001,7422.3,False
+5a164dac-fbf6-4147-94f9-a3f1bcdca15c,2023-09-23,expense,Sales,"Valdez, Robinson and Fernandez",card,services,HR_Manager,False,PRJ_017,-7265.33,False
+c3508423-678a-48ad-a486-9e9338b4a9f1,2023-10-23,expense,Sales,"Alexander, White and Banks",bank_transfer,services,CFO,False,PRJ_007,-4602.1,False
+94f371fb-a094-4493-88f4-cb5ff0ee2cb7,2021-01-20,income,Sales,Ford-Murphy,bank_transfer,hardware,CFO,True,PRJ_014,9207.89,False
+56b46513-7e5a-4412-8110-512df72eecd4,2021-07-27,income,HR,Bauer PLC,bank_transfer,taxes,CTO,False,PRJ_006,10744.82,False
+20d6e82d-eb92-4fc2-9a27-9da4c9c1263f,2024-04-30,expense,IT,"Lewis, Carroll and Walker",bank_transfer,software,COO,False,PRJ_009,-6816.41,False
+f45b324c-ca67-4da9-a74d-ccb16002b9c9,2022-07-20,refund,HR,Hood Ltd,bank_transfer,software,HR_Manager,False,PRJ_013,736.35,False
+70a1b4b4-b148-497f-8b81-0f102ac07cc2,2023-11-12,expense,Marketing,"Clark, Stuart and Bennett",bank_transfer,services,HR_Manager,False,PRJ_019,-4559.3,False
+22a6b9cc-56ff-4590-88cd-d05d37fa9945,2021-06-04,income,Marketing,"Bean, Gonzales and Martin",card,training,CEO,True,PRJ_014,15021.7,False
+b154eeab-b0f1-40cc-a85d-c721e93e439d,2023-06-05,expense,R&D,"Valdez, Robinson and Fernandez",bank_transfer,hardware,COO,True,PRJ_014,-6249.75,False
+81c41990-0298-4e89-8eb8-e01b2dee9094,2022-04-09,income,Finance,"Gomez, Hopkins and Thompson",bank_transfer,hardware,CEO,False,PRJ_017,12689.77,False
+1cc30415-241e-416f-9f64-91eea31d9647,2023-06-22,expense,HR,Alexander and Sons,bank_transfer,hardware,HR_Manager,True,PRJ_017,-6208.34,False
+adb67b38-a592-40d7-a066-98c28824f5a7,2023-03-06,expense,Finance,Smith Ltd,bank_transfer,hardware,COO,False,PRJ_005,-2146.81,False
+47cad295-def1-4b3f-a152-d956b998f8e9,2022-07-01,expense,Marketing,Bauer PLC,cash,software,CTO,True,PRJ_002,-2398.95,False
+c8e4e501-6001-4d4a-a009-34778ed0b3c3,2021-10-16,expense,Sales,Page Ltd,crypto,services,CTO,False,PRJ_006,-4781.18,True
+95fc28ed-7aeb-4f5f-b0de-fc1b5f5b35bb,2021-10-07,refund,Sales,Alexander and Sons,bank_transfer,services,CEO,False,PRJ_002,779.86,False
+5c1c9a1b-273e-4cc9-a8a2-a8b16cc1a932,2022-12-28,expense,HR,"Gonzalez, Campos and Smith",bank_transfer,operational,HR_Manager,False,PRJ_006,-171.57,False
+1bcaea39-dd9b-41ef-88fc-777da737f6b1,2024-03-12,expense,Sales,Davis Inc,card,services,CTO,False,PRJ_010,-2993.23,False
+f02dcad9-2996-4574-b01a-c0e5a238b088,2023-11-29,income,HR,Chan Ltd,bank_transfer,services,COO,False,PRJ_015,9564.77,False
+463ec9db-2fe3-4449-ba32-f788c843fa54,2021-05-02,expense,HR,Hicks and Sons,card,travel,CEO,False,PRJ_005,-3343.87,False
+edfc8f5b-734a-4a83-9ec1-6419f118ebde,2021-01-14,expense,IT,"Jones, Ramirez and Reed",bank_transfer,operational,HR_Manager,False,PRJ_010,-4599.97,False
+9b7ed032-e979-452f-a7cb-9626a5713c21,2023-12-07,expense,Finance,Blankenship and Sons,bank_transfer,travel,CEO,False,PRJ_001,-8720.9,False
+b546fcd2-4be4-46d7-9200-f78e371c570d,2023-02-03,income,Marketing,Hood Ltd,cash,training,COO,False,PRJ_008,13636.48,False
+d7b2d77b-f16c-44f7-ad50-166b42fb6c7b,2021-04-06,expense,Finance,"Clark, Stuart and Bennett",bank_transfer,travel,COO,False,PRJ_016,-4941.5,False
+23ec101c-a041-4b6c-b487-66f17eb7a7f7,2022-01-21,income,IT,Davis Inc,card,taxes,CEO,False,PRJ_004,12981.79,False
+6fd72e76-8b73-4da3-b675-d976ec2ea070,2022-07-19,income,IT,Smith Ltd,card,operational,CEO,False,PRJ_002,7842.98,False
+7d77253e-8d89-4846-96dd-e7b054d214fe,2022-10-18,income,Sales,"Gomez, Hopkins and Thompson",bank_transfer,services,HR_Manager,False,PRJ_006,9439.34,False
+b91c4e89-7944-4a35-905b-bf67cfd87dce,2022-03-31,expense,HR,Vance PLC,bank_transfer,software,CTO,False,PRJ_016,-8161.5,False
+90236a0f-a1b2-4e0d-a273-b821d3c2449a,2024-01-01,expense,Marketing,"Jones, Ramirez and Reed",bank_transfer,services,HR_Manager,True,PRJ_016,-1442.69,False
+8cced0f9-62a4-48f8-943f-b302b22bd99e,2021-09-22,expense,Marketing,"Gonzalez, Campos and Smith",card,services,COO,False,PRJ_011,-6041.73,False
+614a69fe-178b-429f-85c6-855c4195817b,2022-02-01,transfer,Sales,"Lewis, Carroll and Walker",bank_transfer,hardware,CTO,False,PRJ_013,-961.51,False
+5f996315-ab6d-4d1f-8329-e5ecc33e54b4,2022-10-18,expense,HR,"Henry, Hill and Johnson",card,operational,,False,PRJ_018,-4680.7,False
+9377843a-8159-44d0-a097-884ffa5e699a,2023-08-15,expense,Finance,"Valdez, Robinson and Fernandez",card,services,CTO,False,PRJ_014,-2494.77,False
+de6a5e86-571c-428d-9b11-feca550197c3,2022-09-18,expense,Marketing,"Jones, Ramirez and Reed",crypto,training,CFO,False,PRJ_011,-6562.59,True
+523529dc-baa6-4082-92d3-09fd5ba3aa33,2021-06-01,expense,Marketing,Smith Ltd,bank_transfer,operational,COO,False,PRJ_019,-6125.38,False
+7913b770-1cbf-4910-ae51-c1ba824f1c79,2022-04-20,income,IT,Hood Ltd,card,operational,CTO,False,,9885.58,False
+0f8ab7fe-d1e7-4ba5-b4c8-ddfa063fda68,2023-03-03,expense,Sales,"Henry, Hill and Johnson",card,software,CTO,True,PRJ_018,-3822.69,False
+c0f6a53b-29ae-4376-ac11-d690ba5f8eda,2023-03-09,expense,Marketing,"Dixon, Sims and Garcia",bank_transfer,operational,CFO,True,,-9466.56,False
+07d889c5-2312-4571-830f-ff7816614758,2021-04-02,expense,Sales,Patton-Franklin,bank_transfer,hardware,HR_Manager,True,PRJ_010,-2326.16,False
+b6a74821-6172-49a2-a012-376657ced6e2,2022-08-10,expense,R&D,"Clark, Stuart and Bennett",cash,taxes,COO,True,PRJ_005,-2940.23,False
+fbfd6a7a-a96e-4728-8e6b-f13d392a0c5d,2024-02-29,expense,IT,Vance PLC,bank_transfer,hardware,CFO,True,PRJ_002,-6580.03,False
+8abea0be-97e7-48de-95d8-cba18ec69bf9,2022-03-18,expense,HR,Chan Ltd,bank_transfer,hardware,CEO,True,PRJ_013,-4625.41,False
+367e05df-cd3d-47ee-b70c-dd74b3c4a390,2023-05-28,expense,Sales,Gonzalez Group,card,services,COO,False,PRJ_004,-5602.73,False
+01f2a421-d27a-434c-a9ed-b4aaedac09f3,2024-05-21,expense,Finance,Smith Ltd,card,operational,COO,False,PRJ_008,-6960.81,False
+9da0c797-4e42-4b32-aeb2-a5233d2b99b3,2024-04-22,income,Finance,Patton-Franklin,card,software,HR_Manager,False,PRJ_012,10073.22,False
+532e0a29-c971-4801-a6cd-bab0cf65692c,2021-08-23,expense,Marketing,"Gomez, Hopkins and Thompson",card,operational,CTO,False,PRJ_001,-4614.88,False
+22cec643-2cc9-4e58-a49a-4ce8812c3fcd,2023-06-03,expense,Finance,"Gonzalez, Campos and Smith",bank_transfer,software,HR_Manager,False,PRJ_009,-2866.26,False
+3567e7d6-bc27-4013-bf0c-1be67ef57395,2022-02-07,expense,Marketing,"Alexander, White and Banks",bank_transfer,operational,CFO,False,PRJ_013,-5456.68,False
+88686846-853e-49ae-ba00-4f6e00d9f917,2021-04-19,investment,Marketing,Alexander and Sons,bank_transfer,software,COO,False,PRJ_011,-4257.59,False
+06351a1e-d75f-4764-9e18-50a9714357d6,2024-03-12,expense,Marketing,"Bean, Gonzales and Martin",card,services,HR_Manager,True,PRJ_001,-2890.28,False
+147bd33a-3cbe-4cac-aa29-63cc6cf53824,2024-04-01,expense,Marketing,Stevens Group,bank_transfer,salary,CEO,False,PRJ_009,-591.54,False
+84e6ef49-3bc6-41db-935c-2eaf4e1854de,2021-09-27,expense,HR,Blankenship and Sons,bank_transfer,taxes,COO,False,PRJ_001,-3481.64,False
+5f0a652b-aba5-4035-85ca-fdc0b6638e8d,2021-02-05,expense,Marketing,"Dixon, Sims and Garcia",bank_transfer,travel,HR_Manager,False,PRJ_003,-7766.93,False
+1d762cf9-acdc-4f79-aed3-4a5efcaeba72,2022-01-20,expense,Marketing,Ford-Murphy,cash,taxes,CEO,False,PRJ_016,-7736.54,True
+bba41ac3-1f2f-4e8e-8391-b7278788afaa,2022-10-19,expense,Marketing,"Dixon, Sims and Garcia",bank_transfer,travel,HR_Manager,False,,-2812.6,False
+c4e6eaf9-e177-4fb5-a341-60178ed77687,2022-11-30,expense,HR,"Valdez, Robinson and Fernandez",crypto,taxes,CFO,False,PRJ_019,-7045.17,True
+c857e201-7887-4842-a454-8bef95833ea7,2023-08-13,income,IT,Hood Ltd,bank_transfer,hardware,CEO,False,PRJ_008,10063.18,False
+1f01942d-ad37-455f-a3a8-e6b6fb94a050,2022-10-11,expense,R&D,"Jones, Ramirez and Reed",card,salary,COO,False,PRJ_004,-4277.17,False
+972bd5f7-7c8d-4627-a88f-341657b8eaeb,2022-07-23,expense,HR,Hays-Thomas,bank_transfer,services,HR_Manager,False,PRJ_015,-3009.58,False
+31c4d7ff-45c0-4846-81bc-b162ab0bd40a,2022-09-05,expense,IT,Page Ltd,cash,training,COO,False,PRJ_001,-5286.23,True
+9759bbc9-92a9-4ff0-a5e8-42c645d27d5e,2021-03-17,expense,Sales,Hood Ltd,card,hardware,CTO,False,PRJ_010,-5425.16,False
+26066bc1-3746-4f29-90c1-3b920fc635d1,2021-02-20,refund,R&D,Davis Inc,bank_transfer,operational,COO,False,PRJ_007,414.19,False
+7ce846e4-aaea-48df-acd1-54c1ccd8bcdc,2023-07-19,expense,Sales,Ford-Murphy,bank_transfer,services,COO,False,PRJ_005,-5908.07,False
+ab7e2238-47ed-4307-ab89-ad9b835832af,2021-09-04,transfer,R&D,Smith Ltd,crypto,services,CFO,False,PRJ_006,-623.66,False
+49e98bc6-de88-4c68-bbe6-4e7e388bba89,2023-05-29,expense,Sales,Ford-Murphy,bank_transfer,training,CTO,False,PRJ_010,-2991.25,False
+47cfd018-1c14-4e2f-a49e-f5d4cfd3ef80,2022-05-31,expense,Sales,"Watts, Lawson and Durham",cash,taxes,CFO,False,PRJ_011,-4178.94,True
+7578e8d1-03c5-452a-a22a-76c7485c72ac,2021-02-16,income,Finance,"Alexander, White and Banks",bank_transfer,taxes,CEO,True,PRJ_009,8520.57,False
+9315277b-6c78-410b-9bbb-b85d8bf52821,2022-02-02,transfer,Marketing,"Alexander, White and Banks",bank_transfer,travel,CTO,True,PRJ_002,-1307.59,False
+96de73c7-fb6b-47c4-ae6a-b36716bfebd2,2024-05-28,income,Sales,"Watts, Lawson and Durham",bank_transfer,taxes,HR_Manager,False,PRJ_005,14556.16,False
+15aacb68-efa5-402d-884d-67ec964982f4,2021-12-07,expense,R&D,,card,travel,HR_Manager,False,PRJ_020,-5738.77,False
+59b0753d-d353-4d48-9b99-364b3c48250e,2023-11-09,income,HR,"Russo, Johnson and Torres",crypto,hardware,HR_Manager,False,PRJ_017,10086.37,False
+e68a5448-f358-4e14-ad55-0c147819825b,2021-05-24,income,IT,"Valdez, Robinson and Fernandez",bank_transfer,salary,HR_Manager,False,PRJ_011,5531.09,False
+fdb3c959-c154-40eb-8f19-da8a847e3786,2022-07-29,income,Marketing,"Valdez, Robinson and Fernandez",cash,hardware,COO,False,PRJ_017,9261.27,False
+1dfc6ed4-59c6-4ffa-89e8-03de4de76af7,2024-02-01,expense,Marketing,Hood Ltd,bank_transfer,services,CEO,False,PRJ_011,-3603.36,False
+250e98e1-63ef-4523-bb75-1c2ec6f330e4,2022-11-13,income,Sales,Patton-Franklin,bank_transfer,salary,CFO,False,PRJ_016,14528.37,False
+d22aaa46-2889-4c04-91aa-3e9e6f6d4b05,2024-05-12,transfer,Finance,"Valdez, Robinson and Fernandez",bank_transfer,taxes,CEO,True,PRJ_012,-1822.8,False
+c48b02a1-74fe-4275-9f73-33d4cec91b59,2021-11-27,income,R&D,"Patterson, Harding and Phillips",bank_transfer,taxes,CFO,False,PRJ_019,8805.57,False
+f675a6f4-e0f7-4604-b388-2af118639e34,2022-09-26,transfer,R&D,George-Carpenter,bank_transfer,taxes,CFO,True,PRJ_007,-189.39,False
+49489daf-c108-445d-bdf9-10f7dca1938c,2023-04-12,expense,IT,"Valdez, Robinson and Fernandez",card,services,CEO,False,PRJ_012,-6144.39,False
+c604a383-987f-45ec-bab9-2326e0af9f39,2024-01-15,income,R&D,Vance PLC,bank_transfer,hardware,CFO,False,PRJ_018,10634.8,False
+cab6b385-ac8a-4f8e-ba2a-32d7272ad3b3,2023-08-13,expense,HR,Davis Inc,crypto,taxes,CFO,False,PRJ_010,-4829.84,True
+39b27596-d821-4075-8887-3c1493a56ab0,2023-05-04,expense,Marketing,"Patterson, Harding and Phillips",bank_transfer,travel,CTO,False,PRJ_017,-7049.98,False
+269ea8a6-ece4-4a5e-8286-b349bc7487a8,2021-04-01,expense,Marketing,Gonzalez Group,card,software,COO,False,PRJ_011,-5185.97,False
+dd360c05-289f-4c1e-88e8-b678b886119a,2022-07-20,expense,IT,"Valdez, Robinson and Fernandez",bank_transfer,,CTO,True,PRJ_001,-5727.84,False
+2d59e0c5-991c-41cb-9e87-668d14c43e21,2022-12-27,expense,IT,"Valdez, Robinson and Fernandez",cash,software,HR_Manager,True,PRJ_002,-4716.47,True
+1393c903-c4d3-4195-a763-482c9c1d3578,2021-09-26,expense,HR,Alexander and Sons,bank_transfer,software,COO,True,PRJ_020,-3857.18,False
+4d2bacfb-0fdb-4cc6-be17-faf70a5df01f,2023-02-13,expense,IT,Stevens Group,bank_transfer,travel,HR_Manager,False,PRJ_001,-1973.33,False
+0c421a65-08fe-4aaf-9368-a9646cc259d8,2021-08-14,expense,Marketing,"Bean, Gonzales and Martin",bank_transfer,training,CFO,True,PRJ_007,-3134.51,False
+8d54de9b-7c2f-4738-8839-4522a18d87bf,2021-06-19,expense,IT,"Russo, Johnson and Torres",card,travel,HR_Manager,False,PRJ_013,-7020.44,False
+a57f954c-1e50-4c63-a932-7037b7956992,2021-05-08,expense,Sales,"Dixon, Sims and Garcia",bank_transfer,training,COO,False,PRJ_014,-7168.74,False
+b94a433b-9bff-497f-a9f6-6c86ac9a61b5,2023-08-31,expense,IT,Patton-Franklin,bank_transfer,operational,CTO,False,PRJ_001,-6956.64,False
+04304764-829c-4655-bd97-3608bae2a1df,2023-08-18,income,Marketing,"Alexander, White and Banks",bank_transfer,salary,CTO,True,PRJ_014,8462.78,False
+8be23c8c-12a1-4f57-8086-94ba728b84a1,2023-10-30,expense,Marketing,Ford-Murphy,cash,training,COO,False,PRJ_016,-2259.91,False
+cda1dc31-a3da-4a78-a505-72bef1e9c431,2021-01-29,expense,R&D,"Gonzalez, Campos and Smith",bank_transfer,hardware,HR_Manager,False,PRJ_015,-4499.41,False
+59fd055b-8b05-4197-af09-fbb43237b190,2022-10-09,expense,Sales,"Jones, Ramirez and Reed",card,hardware,CTO,False,PRJ_013,-6258.7,False
+0d3e5fdd-3b86-4f64-97f9-ce175d1c3cbb,2022-11-21,income,HR,"Watts, Lawson and Durham",bank_transfer,salary,CTO,False,PRJ_010,7885.53,False
+016a567f-f537-4e06-999c-674a4335dc5b,2023-02-24,income,Finance,"Patterson, Harding and Phillips",cash,,COO,False,PRJ_009,14214.83,False
+c372e25c-8df0-45ca-938c-5bfa852a99f6,2022-05-04,income,HR,"Lewis, Carroll and Walker",card,operational,HR_Manager,False,PRJ_009,11436.46,False
+746ec46b-ff49-4271-9dc5-6399517c221d,2023-05-27,expense,Finance,"Valdez, Robinson and Fernandez",card,hardware,CEO,True,PRJ_007,-4203.94,False
+9463a27a-062e-498b-9dde-fc7d6d382ae5,2023-11-18,income,Sales,Stevens Group,bank_transfer,salary,CFO,True,PRJ_004,8220.78,False
+cbe6179b-1253-4a8a-a9ca-1802066c6ff8,2024-04-28,refund,Sales,"Dixon, Sims and Garcia",bank_transfer,salary,CEO,False,PRJ_003,478.78,False
+89dad13d-af17-4a12-85fa-e6eabd3ff0ff,2021-12-05,expense,Sales,Blankenship and Sons,card,taxes,COO,True,PRJ_002,-5792.29,False
+a85ff8ea-6a61-401f-afec-55cb9571a244,2021-07-09,expense,Finance,"Valdez, Robinson and Fernandez",card,services,COO,False,PRJ_014,-4370.59,False
+d553d0a5-0fb2-48ce-9798-6c1d857852d7,2023-02-08,expense,HR,Hicks and Sons,cash,training,HR_Manager,True,,-3739.7,True
+d0b78b3d-74c2-42ef-855a-4dfa70a54bea,2021-09-21,expense,HR,,bank_transfer,software,CEO,False,PRJ_002,-4405.21,False
+b926b9b6-c713-4da6-b735-a875b2ccf3cb,2022-10-16,expense,Marketing,Blankenship and Sons,bank_transfer,training,CTO,True,PRJ_014,-5426.94,False
+cfa6ce67-06d2-475d-be9e-e72e911088b7,2023-01-03,income,HR,Hicks and Sons,card,hardware,HR_Manager,False,PRJ_020,6309.59,False
+2d126493-335d-48bf-ac29-514949c7d10b,2021-07-26,expense,Sales,Patton-Franklin,bank_transfer,training,COO,False,PRJ_002,-3449.15,False
+53dcda83-d051-4dab-9555-83216f4b8d16,2023-11-29,income,R&D,"Dixon, Sims and Garcia",bank_transfer,taxes,CEO,False,PRJ_005,7814.04,False
+31adc3b1-5a90-41ee-8e4c-2daab6d98aa2,2021-08-19,transfer,IT,"Valdez, Robinson and Fernandez",card,services,CTO,False,PRJ_010,-329.28,False
+81e9ae9f-fb9f-49cb-a387-009481fa444b,2023-10-10,transfer,Sales,"Henry, Hill and Johnson",card,services,CEO,False,PRJ_006,147.38,False
+f402c9a3-be99-4e23-9982-e61ed5b983f8,2023-04-02,expense,Marketing,Patton-Franklin,card,software,CTO,False,PRJ_019,-3167.98,False
+3f0b5b6f-864f-4da3-a60c-2874d17dbab9,2021-12-02,income,Sales,"Gomez, Hopkins and Thompson",bank_transfer,hardware,CFO,False,PRJ_004,9748.22,False
+fcdaa91c-e05c-4a46-9021-ce4f4cf0f2a9,2023-10-15,expense,IT,"Gomez, Hopkins and Thompson",bank_transfer,operational,CTO,False,PRJ_008,-6385.51,False
+73cf60bb-c69f-40a5-901c-c4e2bec37fe2,2022-02-04,income,HR,"Watts, Lawson and Durham",cash,services,CFO,False,PRJ_015,11418.75,False
+05311381-27ac-4367-904d-8881f9f67ca5,2023-12-06,expense,HR,Bauer PLC,bank_transfer,hardware,CEO,False,PRJ_010,-4175.78,False
+f0c8e2dc-061a-468f-a8c3-b6818392abad,2021-09-10,income,R&D,"Valdez, Robinson and Fernandez",card,travel,COO,False,PRJ_012,6676.05,False
+6cc323c2-aed9-469d-b1e6-1b4d9e39a404,2022-08-19,income,Sales,"Valdez, Robinson and Fernandez",bank_transfer,travel,COO,False,PRJ_007,9619.79,False
+f99b3462-2279-433f-b23d-f4ba1f1533fc,2022-01-28,investment,IT,"Bean, Gonzales and Martin",bank_transfer,software,CFO,False,PRJ_007,-8984.76,False
+9ac73e1e-dd21-4aec-aa25-fffb8c2e00a4,2023-09-09,expense,Marketing,Blankenship and Sons,card,hardware,CTO,True,PRJ_020,-5969.58,False
+7fcb86c8-b328-4e4b-a079-f3ba7aaf3eed,2023-05-22,expense,HR,"Gomez, Hopkins and Thompson",card,hardware,CEO,False,PRJ_005,-5239.88,False
+ab4bf68b-5cb5-4c3b-b4e1-42a4a8221e80,2022-05-27,expense,HR,Page Ltd,bank_transfer,services,HR_Manager,True,PRJ_013,-5090.93,False
+2307677e-8326-4185-9fa2-c996d51ec011,2024-03-04,expense,Finance,George-Carpenter,card,hardware,CEO,False,PRJ_015,-5769.59,False
+3bdd4168-281d-40b4-9476-f1b677a83a1e,2024-05-23,expense,HR,Blankenship and Sons,bank_transfer,operational,CTO,False,PRJ_008,-6540.77,False
+b5777300-b4a2-436c-81b1-3761932abe7e,2022-12-30,expense,HR,Bauer PLC,bank_transfer,software,HR_Manager,False,PRJ_019,-8404.26,False
+5e969c62-0b3d-4dc4-bff0-be1571f949da,2022-12-30,transfer,Marketing,Davis Inc,bank_transfer,services,HR_Manager,True,PRJ_006,-1357.53,False
+9a092074-39f0-4c24-80cf-a90558f67cc2,2024-03-20,expense,Marketing,Bauer PLC,bank_transfer,travel,COO,False,PRJ_011,-2967.81,False
+7ce6c96e-c47f-4709-9f1f-3a2b27ac4089,2024-05-02,expense,R&D,"Gonzalez, Campos and Smith",bank_transfer,operational,HR_Manager,False,PRJ_018,-3319.36,False
+d7e942e8-d69b-48f3-a0b7-a87f2b9222ce,2023-03-01,expense,HR,,crypto,travel,CFO,False,PRJ_013,-7071.82,True
+77def04f-25f9-4eb8-a294-f8fe740052a4,2023-06-11,income,IT,Vance PLC,cash,services,HR_Manager,False,PRJ_019,8721.19,False
+99f302a7-90dc-4549-9cb2-d6b00963acbc,2023-08-29,expense,Marketing,"Clark, Stuart and Bennett",card,training,CTO,True,PRJ_011,-7188.73,False
+1bc0053b-3b19-48cd-9ea0-9c9daa1ae9ad,2024-02-29,expense,R&D,"Valdez, Robinson and Fernandez",card,travel,CFO,False,PRJ_008,-8251.2,False
+0a683976-f10b-4918-92d3-f704698c4915,2023-04-18,income,Sales,Page Ltd,crypto,software,COO,False,PRJ_018,9279.02,False
+cf52730c-c66b-4f08-bbce-bc18fb272609,2023-02-15,transfer,Marketing,"Gonzalez, Campos and Smith",crypto,software,CTO,False,PRJ_017,-500.29,False
+9605a59b-03f3-4261-89f8-353682b22330,2021-01-09,expense,R&D,Davis Inc,card,software,CEO,True,PRJ_017,-1991.57,False
+8476e875-ea3b-4e87-aa8c-646111ee6997,2023-10-18,income,R&D,"Russo, Johnson and Torres",card,salary,COO,True,PRJ_002,13453.66,False
+47648790-0688-4df2-8b8f-2fc9c1b374aa,2022-12-15,expense,HR,"Jones, Ramirez and Reed",cash,salary,CFO,True,,-5491.76,True
+3910c068-a27b-4d68-9582-1a30d75044b2,2023-09-24,transfer,R&D,Smith Ltd,card,,CTO,True,PRJ_019,-392.51,False
+45959162-0341-4f6e-9c15-b76a0f248c99,2022-08-28,income,Sales,"Gomez, Hopkins and Thompson",card,services,CEO,False,PRJ_003,11068.65,False
+24f03fd6-b0aa-415c-bbd3-2198c8905ce8,2024-02-24,expense,Marketing,"Valdez, Robinson and Fernandez",card,taxes,CTO,True,PRJ_007,-5209.58,False
+6e6f97a4-5ed3-47f8-9965-b9bad61b2df6,2022-11-28,refund,HR,"Valdez, Robinson and Fernandez",crypto,software,CTO,False,PRJ_018,355.87,False
+b13da2db-f377-4a97-b393-fec3571f9f06,2021-02-27,expense,HR,"Dixon, Sims and Garcia",card,operational,COO,False,PRJ_016,-6822.67,False
+670201e9-e837-43d0-a387-52be8b4e8c86,2023-10-09,transfer,Finance,"Valdez, Robinson and Fernandez",cash,operational,CFO,False,PRJ_007,-496.0,False
+484276e1-a64e-4647-b076-2d0c9d41a6ef,2022-12-05,expense,HR,"Watts, Lawson and Durham",card,services,CTO,True,PRJ_007,-7027.61,False
+82f3871d-c906-48a1-8b30-f199e93724df,2022-04-16,investment,Sales,Hood Ltd,card,services,HR_Manager,False,PRJ_019,-18381.21,False
+c0a5d163-79b4-4919-9955-fb5f9fc8eb7e,2023-09-08,income,Marketing,Davis Inc,bank_transfer,training,CFO,False,PRJ_011,5794.28,False
+f53cb9ef-bc83-46ff-b686-35faf0199883,2024-03-13,expense,HR,Hays-Thomas,cash,training,CFO,False,PRJ_006,-7128.44,True
+b6f128c0-70d3-41cd-b2e5-e3e03a952931,2021-06-26,expense,Marketing,Davis Inc,card,operational,CTO,False,PRJ_005,-4763.58,False
+14a3e0f7-ab8b-4d74-be4e-8f0697516430,2023-03-13,expense,Finance,"Valdez, Robinson and Fernandez",crypto,travel,HR_Manager,False,PRJ_011,-5503.16,True
+3e85da50-34dd-4b4c-ba36-de4dd0d667a5,2023-08-19,income,Sales,"Alexander, White and Banks",card,travel,CEO,False,PRJ_002,6596.81,False
+918b8487-24a1-4c36-8049-02d052b0d493,2021-10-21,expense,HR,Page Ltd,card,training,CFO,False,PRJ_012,-1508.26,False
+5fe29030-ae6b-4c0e-aa63-4c5b58d5b473,2023-10-13,income,Marketing,Blankenship and Sons,bank_transfer,operational,HR_Manager,False,PRJ_012,4369.84,False
+cbf53c51-0cce-43ca-9a28-05b4e3084d3b,2023-10-06,refund,HR,Hood Ltd,bank_transfer,salary,COO,True,PRJ_008,453.54,False
+0bf4e6b6-de07-4663-a00c-7175ff57ba84,2023-10-19,expense,Marketing,"Valdez, Robinson and Fernandez",bank_transfer,services,COO,False,PRJ_010,-4819.63,False
+bd10dd1a-9e4e-41b0-bba1-a6c2b2b1aa74,2023-03-02,refund,Sales,Bauer PLC,bank_transfer,taxes,HR_Manager,False,PRJ_007,758.33,False
+301cf752-c50a-48fa-a09c-7e198828c6ce,2023-07-10,transfer,IT,"Lewis, Carroll and Walker",card,services,CFO,False,PRJ_004,-1554.98,False
+a4e69eaa-ee4f-4e0a-a938-deb166290640,2022-12-11,expense,Sales,"Valdez, Robinson and Fernandez",crypto,taxes,CEO,False,PRJ_013,-2186.44,False
+77e5a5ea-aff7-4d8a-878d-bab17691893b,2023-11-02,expense,IT,"Valdez, Robinson and Fernandez",bank_transfer,hardware,HR_Manager,False,PRJ_011,-6176.31,False
+16520e5c-c849-4f01-9083-65ad84d5479e,2022-05-25,income,HR,"Bean, Gonzales and Martin",bank_transfer,salary,CEO,False,PRJ_013,6022.62,False
+d0ec1f2a-a046-4c86-ab22-1b1e98dd105f,2022-05-05,income,R&D,George-Carpenter,bank_transfer,hardware,HR_Manager,False,PRJ_011,7044.42,False
+e02d4eb3-0256-4077-8426-c82a2365dee3,2024-05-28,expense,R&D,"Valdez, Robinson and Fernandez",bank_transfer,taxes,CFO,True,PRJ_012,-2057.21,False
+9bab83e7-bb60-4863-8666-223932cbe31d,2021-01-02,refund,IT,Davis Inc,cash,salary,CTO,False,PRJ_007,504.78,False
+f4a67fff-a8e7-45ec-8aec-9dbdd821f9af,2023-04-08,income,Sales,Gonzalez Group,crypto,operational,HR_Manager,False,PRJ_003,8266.75,False
+d374ee70-ac61-451d-b21d-737e518af7e0,2023-11-26,transfer,Finance,Bauer PLC,bank_transfer,services,HR_Manager,False,PRJ_014,-830.55,False
+a8f69083-9371-47ad-a878-c062b4f052b2,2022-07-05,transfer,Marketing,Smith Ltd,bank_transfer,hardware,CEO,False,PRJ_007,-951.51,False
+1eb9f3ee-a553-4c84-a2e6-0daa96e1448b,2023-05-14,expense,Sales,"Gonzalez, Campos and Smith",card,salary,CTO,True,PRJ_005,-5817.27,False
+bf7c46a6-3710-4b55-9606-b2f42106699d,2022-11-03,income,R&D,"Clark, Stuart and Bennett",card,taxes,HR_Manager,False,PRJ_013,13053.06,False
+8d66f4ff-46d5-45a9-baa9-8e9f45452b65,2021-08-18,expense,Finance,Hicks and Sons,card,salary,CFO,True,PRJ_009,-6278.46,False
+505e79d6-abd6-4728-a876-b6a6c83ee8fe,2024-02-10,income,Sales,"Valdez, Robinson and Fernandez",card,training,CTO,True,PRJ_020,10706.16,False
+2be67d8b-10c2-4463-94b1-a82e9e6c8d15,2023-10-26,expense,Finance,"Gomez, Hopkins and Thompson",bank_transfer,travel,CTO,True,PRJ_009,-4982.34,False
+a75c371e-d974-4d22-8ed9-17d7884a01fc,2023-05-21,income,Sales,"Valdez, Robinson and Fernandez",crypto,training,HR_Manager,True,PRJ_016,9613.3,False
+5fb6acd3-1575-4f8c-88ba-f5a578f49904,2022-12-19,expense,HR,"Gomez, Hopkins and Thompson",card,hardware,COO,False,PRJ_014,-5122.2,False
+5071feb3-6ef9-40e2-aa37-fb5a738f7b63,2023-12-18,investment,IT,"Clark, Stuart and Bennett",card,,COO,False,PRJ_016,-13514.58,False
+b1e4dafe-4a67-491d-940c-275965922f04,2023-06-16,expense,HR,Davis Inc,bank_transfer,travel,CFO,False,PRJ_004,-4880.46,False
+87bb5467-736f-4fd1-bdb1-df7a534481e3,2022-02-08,refund,HR,Hays-Thomas,card,operational,CTO,False,PRJ_016,557.68,False
+abb3c796-647b-4304-ad22-7540d58943ed,2022-11-16,expense,Marketing,Stevens Group,bank_transfer,taxes,CFO,False,PRJ_006,-7437.43,False
+45ab8a79-3a02-4fe2-b70a-eac6f562af58,2022-02-17,expense,Finance,Davis Inc,bank_transfer,salary,CEO,False,PRJ_013,-4112.95,False
+389f2564-0ee6-4f6b-a8a7-e07d874fedab,2023-09-20,transfer,Marketing,Smith Ltd,card,training,CFO,False,PRJ_012,-606.48,False
+b6d62114-88bd-4a2a-9916-1d73eb863ceb,2023-01-13,expense,IT,"Alexander, White and Banks",bank_transfer,software,,False,PRJ_002,-6443.93,False
+355a041d-824d-4f2a-82bf-8ff5f3604485,2023-10-29,income,IT,"Bean, Gonzales and Martin",card,software,CFO,False,PRJ_012,6185.74,False
+86456f1f-779d-4584-8b7b-8fb66bd67c56,2021-10-29,transfer,IT,Alexander and Sons,bank_transfer,hardware,CFO,False,PRJ_015,-1282.76,False
+9d34d8af-e2db-4024-b166-a870ef51ff16,2023-04-09,expense,Marketing,"Valdez, Robinson and Fernandez",card,training,CFO,True,PRJ_011,-6010.03,False
+61736599-2fe0-4638-a1d2-691beb111f87,2022-08-24,income,HR,"Henry, Hill and Johnson",bank_transfer,travel,COO,False,,15588.24,False
+f204286e-dd0a-4059-a63e-a0b26f6e185e,2022-02-11,expense,Marketing,Blankenship and Sons,card,salary,CTO,False,PRJ_018,-3565.43,False
+748cb7c1-71fe-4744-b6e5-bd78b8b5dfe3,2024-02-15,income,Finance,"Henry, Hill and Johnson",bank_transfer,salary,HR_Manager,False,PRJ_003,11675.95,False
+269568bc-8bbc-45dc-ae84-f1a55a047ddc,2023-04-29,expense,Sales,Alexander and Sons,cash,salary,CEO,True,PRJ_015,-5498.73,True
+803a5fc3-81fc-4080-b858-8ddc24174095,2023-01-19,transfer,Finance,Alexander and Sons,crypto,salary,CEO,False,PRJ_020,-96.74,False
+74c3f649-a110-4d0c-9920-5f6e85c007d2,2022-01-31,income,HR,"Bean, Gonzales and Martin",card,taxes,CFO,False,PRJ_016,7551.89,False
+9ad9d573-9f4f-492b-b934-abb460353184,2021-11-12,transfer,R&D,"Henry, Hill and Johnson",cash,training,COO,True,PRJ_019,-1362.55,False
+80cde142-bbe2-4707-b68c-09c5380acec8,2024-02-28,transfer,IT,Gonzalez Group,card,operational,COO,False,PRJ_017,-1626.65,False
+3c30baf1-2c9f-4457-b527-8f199cff4c5f,2021-07-21,investment,IT,"Valdez, Robinson and Fernandez",bank_transfer,travel,CFO,True,PRJ_012,-9246.96,False
+ac746bb9-4282-44bc-a245-c0866328ce6d,2021-10-07,expense,Marketing,"Bean, Gonzales and Martin",card,software,HR_Manager,True,PRJ_008,-6098.72,False
+49493177-744e-4122-8211-1d37e18fa047,2021-03-06,income,Finance,"Russo, Johnson and Torres",card,operational,CFO,True,PRJ_012,5617.23,False
+86ba5030-2974-47c7-ade4-9b0f3908b24d,2021-06-10,expense,Finance,Alexander and Sons,bank_transfer,salary,CFO,False,PRJ_011,-7112.66,False
+8e04eb86-fb19-4111-aca0-1a79de315cec,2022-09-01,expense,Sales,Ford-Murphy,cash,travel,COO,True,PRJ_015,-8310.74,True
+95f026f5-5182-49a6-8fd4-6724d10841cd,2023-08-30,transfer,R&D,"Dixon, Sims and Garcia",bank_transfer,salary,HR_Manager,False,PRJ_019,-668.64,False
+52e56169-9e4d-4f6a-b5da-08f767b21cba,2024-02-11,refund,Sales,Patton-Franklin,bank_transfer,travel,CFO,False,PRJ_005,658.66,False
+8898aeb9-18ee-4248-a2be-de65d9a03b7c,2021-05-11,refund,R&D,Hood Ltd,card,services,CEO,False,PRJ_004,130.52,False
+edc1ce93-e968-4f32-8d1a-c4d800e6c9a0,2022-07-17,expense,Sales,Blankenship and Sons,bank_transfer,travel,CEO,False,PRJ_004,-3346.72,False
+372875b4-2ad6-48cb-8817-5b731e32b89e,2022-05-26,income,Marketing,"Patterson, Harding and Phillips",bank_transfer,hardware,CEO,False,PRJ_004,12808.63,False
+7def5abc-8603-469b-a2af-0b8419188c63,2023-12-13,income,Finance,Page Ltd,card,operational,COO,False,PRJ_013,1833.17,False
+ca118889-710a-4931-a441-a04597e95403,2022-07-11,expense,Sales,"Jones, Ramirez and Reed",card,software,COO,False,PRJ_012,-6720.39,False
+b58bb997-3038-462e-9265-e70346f7aaa7,2023-07-03,expense,R&D,Smith Ltd,bank_transfer,software,CTO,False,PRJ_007,-3159.98,False
+eadbae76-73ca-4040-bf49-562b518ce69c,2021-07-11,expense,Marketing,Chan Ltd,bank_transfer,software,CTO,False,PRJ_004,-6717.63,False
+93f692fe-6743-4c33-9f61-7b2b9432ba22,2023-11-15,expense,Marketing,"Valdez, Robinson and Fernandez",cash,software,CEO,False,PRJ_014,-4565.17,True
+11ec5f46-d805-42cb-bafa-e5d891e80978,2023-03-27,investment,HR,Blankenship and Sons,bank_transfer,salary,CFO,True,PRJ_020,-13518.18,False
+907035d2-73a8-4cc2-aa27-2348bbbf2400,2021-02-08,expense,Sales,"Clark, Stuart and Bennett",bank_transfer,salary,COO,True,PRJ_003,-7346.54,False
+2f2504bf-589f-41be-8de1-5d9f8aedafed,2022-01-14,expense,Sales,Alexander and Sons,cash,travel,CFO,False,PRJ_010,-4848.48,True
+d76297b5-18f0-4ec4-8ca9-b4d0de93a70f,2023-08-14,transfer,Sales,Bauer PLC,card,taxes,CEO,False,PRJ_002,-408.72,False
+a695453b-da96-4e36-9381-7df71f8a8e3b,2024-04-01,expense,R&D,George-Carpenter,card,salary,CEO,True,PRJ_006,-6444.54,False
+497a71b4-1c06-4330-a2aa-6380714c1823,2022-02-02,expense,Finance,Alexander and Sons,crypto,services,HR_Manager,True,PRJ_014,-7309.73,True
+56b9959e-4007-4b5f-bbd3-5c99d076ca83,2021-01-05,expense,Sales,George-Carpenter,card,services,CEO,True,PRJ_004,-10799.79,False
+abbd91c0-53da-4279-aea7-3ff28e1198d4,2023-01-21,expense,Sales,Ford-Murphy,cash,training,HR_Manager,False,PRJ_014,-6880.92,True
+78a9a27f-74e7-4ba7-989e-d331b0b1923e,2023-02-06,refund,Sales,Hood Ltd,bank_transfer,,CTO,False,PRJ_015,189.31,False
+5ad140b7-e09b-4e07-85a1-127161b65f09,2022-11-07,investment,IT,"Bean, Gonzales and Martin",crypto,services,HR_Manager,False,PRJ_008,-14976.99,False
+6f140034-b5ab-44b0-b9e9-03e4bdbc65b2,2023-08-04,expense,HR,"Gomez, Hopkins and Thompson",bank_transfer,salary,CFO,True,PRJ_013,-6002.49,False
+17231a8b-2719-446a-924d-d6a5cf983d71,2021-06-16,expense,IT,"Valdez, Robinson and Fernandez",bank_transfer,software,CEO,False,PRJ_010,-8669.62,False
+d6379c71-b848-410c-a12e-0ca75d9930a7,2023-06-14,refund,Marketing,Hays-Thomas,card,travel,CEO,True,PRJ_019,515.9,False
+6211388a-fc09-4339-a960-308ec03f9819,2023-07-02,expense,Marketing,Stevens Group,bank_transfer,software,CFO,False,PRJ_016,-4751.69,False
+4f1e9fc6-e428-4252-b8b8-7ea6de90d2fb,2021-09-20,expense,IT,"Dixon, Sims and Garcia",bank_transfer,travel,CEO,True,PRJ_012,-7467.0,False
+b8336cad-584b-475f-87a4-1e68624e8af3,2021-06-03,expense,R&D,"Patterson, Harding and Phillips",card,services,CTO,True,PRJ_008,-4636.97,False
+86794480-ed6d-470e-a9cb-8aab8f2832e6,2023-11-27,expense,HR,Davis Inc,cash,salary,CEO,False,PRJ_008,-4193.06,False
+dd4ee610-b70d-4043-85b7-99cdc2753a5b,2021-02-16,expense,IT,"Valdez, Robinson and Fernandez",bank_transfer,salary,CTO,False,PRJ_003,-2697.74,False
+3de029de-7fb4-4feb-ab79-67e9c361360b,2023-12-29,expense,HR,"Dixon, Sims and Garcia",bank_transfer,hardware,CEO,False,PRJ_010,-3683.21,False
+2eec54ab-c40b-4bcf-9516-58c5e6a54490,2022-04-15,expense,Sales,Vance PLC,card,taxes,CTO,False,PRJ_016,-5405.83,False
+c6d7fb85-8ad3-4df7-878f-22847687af57,2024-03-29,transfer,Sales,Vance PLC,card,software,HR_Manager,True,PRJ_015,-985.99,False
+6497d133-72a4-40fe-9c04-dcc8ddd85af6,2023-11-11,expense,R&D,Alexander and Sons,crypto,hardware,HR_Manager,True,PRJ_018,-3686.11,True
+cb1ca716-4f31-44a0-91e8-4b66b6c3ed31,2023-01-20,income,HR,Patton-Franklin,cash,hardware,CFO,False,PRJ_011,14709.6,False
+262d95b7-1e68-4772-a21e-72569949578b,2023-07-23,expense,Sales,Stevens Group,bank_transfer,travel,CFO,False,PRJ_002,-4165.21,False
+7c13e868-1912-4c19-98bd-70cbfe11652a,2022-05-15,expense,Marketing,Page Ltd,cash,travel,CFO,True,PRJ_010,-6535.02,True
+c543a721-affa-46a8-ba12-d0ec484c2ba0,2023-05-02,expense,R&D,"Valdez, Robinson and Fernandez",card,taxes,CEO,False,PRJ_006,-5734.14,False
+2cd6d90c-370c-46f5-b1c4-7ea3958db4ea,2021-05-15,income,HR,"Valdez, Robinson and Fernandez",bank_transfer,salary,COO,False,PRJ_009,9930.93,False
+0ab9f17b-88d2-47d7-8c16-31ab51dc7320,2021-02-23,income,R&D,Hicks and Sons,bank_transfer,services,CTO,True,PRJ_001,5736.54,False
+11827fea-9210-4ba4-bae3-c07a30d89a0c,2023-08-28,expense,Finance,"Russo, Johnson and Torres",bank_transfer,travel,CTO,False,PRJ_019,-7824.59,False
+d64c0218-a148-4377-8721-d6066fe119a8,2022-10-15,transfer,IT,"Clark, Stuart and Bennett",card,operational,CFO,False,PRJ_014,-1180.82,False
+d81801fa-f208-4d33-b93b-181fd7927a9c,2024-03-18,transfer,HR,Gonzalez Group,crypto,travel,CFO,False,PRJ_003,-594.4,False
+a2e10876-eaf9-421a-b7de-0a0b09824879,2023-06-16,expense,HR,Bauer PLC,crypto,taxes,CEO,False,PRJ_020,-2813.53,False
+467f1bd2-8827-4298-bfdb-2b594cea70ba,2023-05-17,transfer,HR,Chan Ltd,bank_transfer,hardware,CEO,False,PRJ_008,-1109.52,False
+9e78585b-afc5-426c-9cde-b27672cb312c,2022-12-31,transfer,HR,Davis Inc,bank_transfer,travel,CTO,True,PRJ_014,-528.73,False
+d814e5bf-60a4-4eb4-9602-fa9c38e00074,2021-02-10,investment,HR,"Bean, Gonzales and Martin",bank_transfer,training,CFO,True,PRJ_001,-22540.94,False
+81d7cb39-c7c3-4044-9c13-bd219bbe1b87,2021-07-10,refund,IT,Hicks and Sons,crypto,training,CTO,False,PRJ_014,250.12,False
+1aaa071a-a5fa-4cc6-b7d4-de8fab3294ff,2022-03-29,expense,Finance,Patton-Franklin,bank_transfer,taxes,COO,False,PRJ_003,-6210.79,False
+27e195e8-5a77-4390-be4a-0a53a4fb87c6,2022-12-04,expense,IT,"Gonzalez, Campos and Smith",bank_transfer,salary,COO,False,PRJ_004,-4098.22,False
+b09a901d-1266-49b1-a4d9-a44fcbc12fc8,2021-08-06,expense,Sales,"Valdez, Robinson and Fernandez",bank_transfer,operational,CFO,False,PRJ_011,-2670.83,False
+bef63408-d3d9-4ed6-afe1-92ae05e2c31f,2023-02-16,expense,R&D,"Valdez, Robinson and Fernandez",bank_transfer,,CEO,False,PRJ_019,-4811.75,False
+7d8a9824-9b4f-4760-a2a0-2c7274d2716f,2023-08-16,expense,Sales,Davis Inc,card,salary,CEO,False,PRJ_020,-1882.4,False
+77bac2c1-1079-4b12-95a3-3fac718aec99,2024-05-31,transfer,IT,"Gonzalez, Campos and Smith",bank_transfer,software,HR_Manager,False,PRJ_012,-80.95,False
+693ce8d9-fa9a-49fa-b368-5c9d1f5d742c,2022-03-29,expense,Finance,"Valdez, Robinson and Fernandez",bank_transfer,taxes,HR_Manager,False,PRJ_011,-6795.98,False
+77884643-a01f-4dd3-abda-30bc8ca09843,2022-04-16,refund,HR,"Lewis, Carroll and Walker",card,operational,COO,False,PRJ_006,338.57,False
+245ce96c-a27d-4ded-b2ea-56d65a745414,2022-07-05,refund,Sales,"Valdez, Robinson and Fernandez",card,travel,COO,True,PRJ_002,529.88,False
+7e571131-c277-4e3a-9d5c-19907b3dc7e8,2024-04-09,expense,Marketing,Bauer PLC,bank_transfer,services,CEO,True,PRJ_007,-5701.42,False
+0fffcb3a-6a2d-4e2c-8e2e-a90f14100763,2023-12-19,income,Finance,"Bean, Gonzales and Martin",cash,services,COO,False,PRJ_009,10149.41,False
+715dae73-91b2-40c0-8c88-e42dd20f798e,2024-04-06,income,Sales,Smith Ltd,bank_transfer,hardware,CTO,True,PRJ_007,10662.43,False
+99ad226e-106a-4a86-90d6-239b7fef37da,2024-04-24,expense,HR,Bauer PLC,crypto,taxes,CFO,True,PRJ_013,-5226.16,False
+57cf57d5-4281-46cd-9217-d20fd47fefea,2021-04-14,expense,Sales,"Gomez, Hopkins and Thompson",card,operational,COO,False,PRJ_012,-7127.58,False
+bcf294f4-78d8-4fe2-b0b8-35cae773aea4,2023-01-05,expense,R&D,"Henry, Hill and Johnson",card,hardware,COO,False,PRJ_008,-6104.12,False
+390cf0cf-2104-46a0-8031-41ade87f4386,2022-03-14,expense,IT,"Gomez, Hopkins and Thompson",crypto,taxes,CTO,False,PRJ_019,-6704.4,True
+795793f8-b9c2-42f8-8bff-4aa2ea0eed7f,2022-05-28,transfer,IT,"Valdez, Robinson and Fernandez",bank_transfer,salary,CEO,False,PRJ_009,-1327.2,False
+8f263a7e-21cd-46c9-a7ca-670c1026e45d,2024-01-28,income,HR,Hays-Thomas,card,operational,CFO,True,PRJ_007,8858.78,False
+f9a510dc-5262-4b0e-b37f-b09c7d6d23cb,2023-02-01,income,Sales,Smith Ltd,card,services,CFO,False,PRJ_006,6497.4,False
+2b401102-f07e-480a-8fec-4d441afb87c7,2024-01-05,investment,HR,Davis Inc,bank_transfer,travel,COO,False,PRJ_012,-20937.33,False
+eeb9b428-b6be-4bc4-a856-6ec7d540e613,2023-06-10,investment,Finance,Hood Ltd,bank_transfer,travel,COO,False,PRJ_004,-13597.34,False
+67fea737-a58e-40b7-8371-7e2f7ede4818,2024-03-29,expense,R&D,Vance PLC,bank_transfer,travel,CEO,False,PRJ_005,-7689.3,False
+dba1a250-d64a-4445-9abe-6c57acb9cccc,2022-02-06,transfer,Sales,"Valdez, Robinson and Fernandez",bank_transfer,travel,CTO,False,PRJ_007,-1236.93,False
+c22c888d-d6ef-4d7a-8afe-c79110c14832,2021-02-06,expense,R&D,Alexander and Sons,crypto,salary,CEO,True,PRJ_016,-1590.7,False
+488ce688-68a9-445e-bc02-f1c8cbf9c323,2022-07-18,expense,Finance,"Patterson, Harding and Phillips",card,hardware,HR_Manager,False,PRJ_014,-3308.95,False
+df167202-1897-4307-91ba-b583958b23a8,2023-01-06,expense,HR,Smith Ltd,bank_transfer,taxes,COO,False,PRJ_013,-2163.52,False
+0dd959eb-cc10-429b-8722-516093337ca4,2023-08-12,expense,IT,Bauer PLC,card,hardware,COO,True,PRJ_008,-4529.36,False
+413ac44f-2293-44c9-b4c2-62105f36dc4c,2021-06-11,expense,Marketing,"Alexander, White and Banks",bank_transfer,travel,CEO,True,PRJ_018,-4999.63,False
+d26db349-a7af-4dce-b1eb-9db3115d4019,2021-12-10,transfer,Finance,George-Carpenter,bank_transfer,salary,CFO,True,PRJ_020,-1000.87,False
+c8c2ac72-a14e-4d88-b707-ab44343378e1,2024-02-11,expense,Marketing,Patton-Franklin,card,services,CFO,False,,-4854.55,False
+c911d748-4c17-4e10-8a9b-e0b9ce2d721d,2023-04-21,income,R&D,Hicks and Sons,crypto,travel,HR_Manager,False,PRJ_009,11567.69,False
+d34ae7e7-0f3d-4289-b06a-f03d08e71313,2023-06-04,income,Sales,"Alexander, White and Banks",bank_transfer,taxes,CTO,False,PRJ_012,6294.16,False
+caeb9358-8ba0-4623-9df7-7acd5ac82104,2023-03-13,expense,IT,"Clark, Stuart and Bennett",bank_transfer,hardware,CEO,False,PRJ_004,-6861.33,False
+f2eff835-61db-493f-b858-fd506274dc80,2024-05-09,expense,R&D,"Alexander, White and Banks",bank_transfer,taxes,CFO,False,PRJ_011,-5571.01,False
+81cc6dc6-3304-40fa-90ab-cf271b12276e,2023-11-27,income,R&D,"Clark, Stuart and Bennett",cash,services,,True,PRJ_001,13415.25,False
+9d4f388d-573e-4683-90f1-5273498961ae,2022-05-24,expense,Marketing,Ford-Murphy,card,operational,CEO,False,PRJ_002,-5214.71,False
+a230f416-2c02-43c3-acc2-ca68bf1a700c,2021-05-30,income,Sales,Patton-Franklin,bank_transfer,salary,CFO,False,PRJ_009,8041.57,False
+a24704df-46b7-4c14-b8e4-b8ba6963338a,2023-07-17,expense,R&D,Gonzalez Group,bank_transfer,training,COO,False,PRJ_019,-2359.63,False
+6bd57020-856c-417d-904a-3734028c3345,2022-11-19,expense,R&D,Patton-Franklin,card,operational,HR_Manager,False,,-5935.64,False
+da130f4c-7a98-4d28-860f-931b68bb5dea,2022-04-02,income,Finance,"Alexander, White and Banks",bank_transfer,services,CEO,False,PRJ_020,12459.66,False
+33d7d34f-5bdd-4124-9dd2-dc84d96d5ac1,2024-01-04,transfer,HR,"Valdez, Robinson and Fernandez",card,software,CFO,False,PRJ_006,-33.77,False
+5d4cd52d-aa1d-49b8-a9c3-b9d6d178e19e,2023-01-02,expense,R&D,"Gonzalez, Campos and Smith",crypto,hardware,CTO,False,PRJ_007,-2999.96,False
+05ef079b-cbd0-4187-a358-931805eab046,2023-03-27,expense,HR,"Lewis, Carroll and Walker",bank_transfer,salary,CFO,False,PRJ_011,-4967.37,False
+b2f6f84c-19cf-4a0f-9984-f18d6eab67d1,2021-12-04,expense,IT,"Valdez, Robinson and Fernandez",bank_transfer,training,CFO,False,PRJ_013,-5576.78,False
+f8f1d2fd-6bc3-434e-b0ca-dc445daead36,2024-01-10,income,Marketing,Davis Inc,bank_transfer,hardware,CFO,False,PRJ_008,7811.01,False
+c3e2f239-b8e8-4358-8514-22eda3c62f51,2023-08-16,expense,IT,"Russo, Johnson and Torres",card,services,CTO,False,PRJ_012,-4606.87,False
+14229bd5-90d0-461f-9573-ada76c294d6e,2021-03-03,expense,R&D,,bank_transfer,salary,HR_Manager,False,PRJ_015,-6520.84,False
+b48f5086-77f3-4d43-982f-1de10a65dd82,2023-12-08,expense,Marketing,Smith Ltd,crypto,hardware,CTO,False,PRJ_013,-6173.93,True
+d422d4d4-b947-4e2a-9a7a-6b2ae83092a2,2023-05-11,expense,Marketing,"Gomez, Hopkins and Thompson",card,software,CEO,True,PRJ_006,-5293.12,False
+74068244-6202-4d1e-a512-8720477719c9,2023-05-11,expense,Finance,"Jones, Ramirez and Reed",bank_transfer,,CTO,False,PRJ_004,-4132.5,False
+b902ff8b-7080-4775-8dda-8fd6a6501777,2021-07-09,income,R&D,Blankenship and Sons,bank_transfer,travel,HR_Manager,False,PRJ_019,9381.63,False
+eebe561a-cfe9-4af2-a0ba-dc2ba8347f51,2022-01-15,expense,Sales,George-Carpenter,bank_transfer,taxes,CTO,False,PRJ_018,-4236.07,False
+0c1bb667-206b-4bfb-b55e-df8b44e03b2a,2021-05-31,expense,Marketing,Hays-Thomas,card,hardware,CEO,False,PRJ_020,-7083.7,False
+04f6b4c6-0a15-4aa2-89cb-7ba5934c746a,2023-08-16,refund,IT,Vance PLC,bank_transfer,salary,HR_Manager,False,PRJ_005,528.87,False
+fe7e4b7f-31b4-43f6-b435-59d9225a4e67,2024-05-31,expense,HR,"Lewis, Carroll and Walker",card,travel,HR_Manager,False,PRJ_018,-3252.74,False
+5680db92-44e3-4f6d-94c6-b98b7711a913,2022-05-12,expense,R&D,"Alexander, White and Banks",card,operational,HR_Manager,False,PRJ_002,-4660.31,False
+40d49e25-6167-412c-bb9e-c8934adf77d5,2023-04-06,expense,R&D,,bank_transfer,salary,CTO,False,PRJ_015,-6520.58,False
+6313c241-87f8-4f74-9b4b-3cf66594bab2,2024-02-04,expense,HR,Smith Ltd,bank_transfer,operational,CEO,False,PRJ_018,-5665.31,False
+28ba3fee-86cd-41f5-a15a-cd141f2bb1ef,2022-08-16,expense,Finance,"Watts, Lawson and Durham",cash,services,CTO,False,PRJ_016,-7836.12,True
+e010e031-6021-4487-9fa9-42bdcc2679d7,2022-07-24,expense,IT,"Gomez, Hopkins and Thompson",bank_transfer,hardware,HR_Manager,True,PRJ_010,-5271.85,False
+e9870840-33ce-4189-aef9-789cd6581c93,2022-03-20,expense,Marketing,Blankenship and Sons,bank_transfer,taxes,HR_Manager,False,PRJ_001,-6665.41,False
+72561919-6f5b-47e6-8ff5-722022d5214b,2023-08-15,refund,Marketing,"Dixon, Sims and Garcia",crypto,software,CEO,False,PRJ_013,437.6,False
+8d078afd-2b29-4abc-89d0-00a997ce7959,2023-02-09,income,HR,"Valdez, Robinson and Fernandez",card,hardware,CTO,True,PRJ_020,10358.67,False
+ef5cb78d-b100-47d5-b770-1252f79e7fac,2022-02-12,expense,Sales,"Valdez, Robinson and Fernandez",bank_transfer,salary,,False,PRJ_014,-2705.88,False
+69cc4b14-97cb-4fc0-8fcf-5786efd80104,2022-08-04,refund,HR,"Lewis, Carroll and Walker",card,salary,COO,False,PRJ_001,669.59,False
+391ebc3d-7926-49e0-b519-1598fa59193d,2023-12-09,expense,R&D,"Valdez, Robinson and Fernandez",cash,salary,CFO,False,PRJ_019,-7391.25,False
+3e5e3ca7-0e39-4f8b-a1fd-ece81b4c614f,2021-08-08,income,R&D,Alexander and Sons,cash,travel,COO,False,PRJ_006,9817.25,False
+ee40dc75-d6a0-480c-8d0b-6e4f07e60bae,2022-11-29,transfer,Finance,,bank_transfer,travel,CTO,True,PRJ_008,-940.2,False
+5e65ac1b-aa88-4d4f-b063-2d00c79851f3,2022-03-21,expense,Sales,"Jones, Ramirez and Reed",bank_transfer,travel,CTO,False,PRJ_001,-2644.91,False
+567e3464-f380-4eac-b823-4fdf22eeeca4,2023-08-26,refund,HR,Page Ltd,cash,taxes,CEO,True,PRJ_018,923.35,False
+7165ea4d-0832-4ea0-88a0-685d4a96e618,2023-12-02,expense,Marketing,"Russo, Johnson and Torres",bank_transfer,services,CEO,False,PRJ_018,-1758.05,False
+4deca39b-0d96-4bdd-b4a2-b186410d9d54,2023-03-12,expense,Sales,,bank_transfer,software,CFO,False,PRJ_013,-7117.01,False
+72fd4669-760e-4981-ac2b-59541d2f5fbc,2023-07-18,expense,IT,"Watts, Lawson and Durham",bank_transfer,training,HR_Manager,True,PRJ_003,-4665.93,False
+d7d56e65-6b75-4683-b315-6d6398ce80e5,2021-07-06,transfer,Sales,Patton-Franklin,crypto,taxes,COO,False,PRJ_003,-174.38,False
+35d09c91-8397-49ad-ab62-ed8b45ea4365,2023-05-23,expense,R&D,Smith Ltd,bank_transfer,travel,HR_Manager,False,PRJ_007,-8191.27,False
+7755ebe2-8aac-4257-9969-9a2755620bb8,2024-03-02,refund,HR,"Valdez, Robinson and Fernandez",card,operational,COO,False,PRJ_015,685.37,False
+e1d81c3a-ae89-4bd1-91c6-4891df27682a,2023-10-19,expense,IT,Smith Ltd,card,salary,CEO,False,PRJ_011,-3701.01,False
+d6176935-7243-43b9-bc22-269c7982e13c,2023-05-17,expense,IT,"Russo, Johnson and Torres",cash,operational,CFO,True,PRJ_013,-5199.94,True
+ddc3e213-9f3b-4df8-ae0f-007835bc6ca4,2024-04-29,expense,Marketing,"Jones, Ramirez and Reed",bank_transfer,services,HR_Manager,False,PRJ_017,-5359.63,False
+c36472e6-ac09-4843-9f4a-605a8bca7047,2022-04-05,expense,R&D,"Bean, Gonzales and Martin",bank_transfer,,CTO,False,PRJ_008,-6609.45,False
+2ea8f053-9d41-4019-ba7d-198f726841b4,2022-04-05,expense,R&D,George-Carpenter,bank_transfer,travel,HR_Manager,False,PRJ_006,-5123.68,False
+2e2f497c-845e-43a4-92fd-896be52edd57,2022-06-22,income,Sales,Davis Inc,bank_transfer,hardware,CTO,False,PRJ_001,12403.24,False
+f9a39a71-d65c-418f-a55b-69a818aa8aae,2023-01-31,expense,Marketing,Page Ltd,crypto,travel,CTO,True,PRJ_008,-5389.35,False
+84df763c-89f6-4852-bc76-380c83c5d020,2023-08-10,expense,HR,Bauer PLC,bank_transfer,software,COO,False,PRJ_004,-3006.95,False
+b466c5a7-1577-49b8-90bd-54f18ddb20a7,2024-05-28,expense,Sales,Hays-Thomas,bank_transfer,services,HR_Manager,True,PRJ_020,-6007.01,False
+3b196f2e-b012-43ea-9d95-37b4f62ad6d3,2022-10-22,investment,Marketing,Hicks and Sons,bank_transfer,salary,CTO,True,PRJ_019,-23361.25,False
+e7b58708-99a5-41dc-867d-ff05931a2e8b,2024-04-27,expense,Marketing,"Russo, Johnson and Torres",bank_transfer,training,COO,True,PRJ_018,-3100.95,False
+60f5f6bc-d7bc-43c2-a8e2-29cdae38edd4,2022-06-06,transfer,Finance,Alexander and Sons,crypto,hardware,HR_Manager,False,PRJ_003,-820.35,False
+6c242c6f-a99d-4feb-99b6-e8508b2480ff,2021-05-24,income,Finance,"Clark, Stuart and Bennett",card,services,CFO,True,PRJ_018,15531.7,False
+72f9cb59-fe53-4ebc-a27c-f39d5184dbb1,2023-12-14,expense,Finance,Gonzalez Group,cash,hardware,CEO,False,PRJ_006,-8339.74,False
+bb16881f-24ec-42dc-8e43-bb5b3167dea1,2024-02-02,transfer,Finance,"Valdez, Robinson and Fernandez",card,training,HR_Manager,False,PRJ_013,-1243.69,False
+9f479d9f-9dde-4000-a60f-ffd5df8a818a,2021-04-06,income,Marketing,Stevens Group,card,hardware,HR_Manager,True,PRJ_015,11660.09,False
+51647699-8d97-43e3-8241-fff690e16eb9,2023-11-18,expense,R&D,Alexander and Sons,crypto,training,COO,False,PRJ_013,-7313.96,True
+0956108e-d583-4395-88f7-9b89fe61ea06,2021-04-27,expense,Marketing,Gonzalez Group,crypto,services,CEO,False,PRJ_017,-6483.97,True
+e5aa917b-80a5-4a90-b21f-e02c7c71f2d1,2024-02-27,expense,Sales,"Valdez, Robinson and Fernandez",bank_transfer,,COO,False,PRJ_010,-8558.86,False
+c6f66bee-58ed-477f-86b9-3e0a1a147356,2023-10-18,expense,Sales,"Valdez, Robinson and Fernandez",card,software,CTO,False,PRJ_003,-3898.42,False
+ecffc54e-f2b2-4cd7-ba02-776f8c023bd8,2023-04-14,refund,IT,Hays-Thomas,card,services,COO,False,PRJ_020,809.05,False
+5fef506d-d991-4175-bab6-40872bc458d9,2021-09-11,expense,HR,Patton-Franklin,bank_transfer,services,CFO,True,PRJ_014,-1191.13,False
+0ddbd138-92a4-4a90-84a4-5634ff6dd88f,2023-09-05,expense,IT,Davis Inc,bank_transfer,salary,CEO,True,,-3806.28,False
+62f499f8-c812-4a2a-81dd-b5dfdef320ea,2023-03-06,expense,IT,"Jones, Ramirez and Reed",crypto,operational,CTO,False,PRJ_020,-4318.69,False
+2d6b7594-43e1-4d22-a0fb-056934e87731,2024-03-30,investment,Marketing,"Lewis, Carroll and Walker",card,travel,CTO,False,PRJ_019,-19456.09,False
+5af5bbae-1a52-4508-bdaf-708c23affc62,2021-10-23,expense,Sales,"Dixon, Sims and Garcia",bank_transfer,salary,CEO,False,PRJ_010,-8385.36,False
+8daa3406-5228-473c-b48d-78d4e1527847,2022-05-18,expense,Finance,Bauer PLC,bank_transfer,travel,HR_Manager,True,PRJ_020,-5754.68,False
+6151eaa7-66d9-4732-8c08-880df56d9c2b,2022-10-21,income,HR,Hicks and Sons,bank_transfer,training,CEO,False,PRJ_006,12371.14,False
+e57bad38-2768-4939-8f94-268078aa0705,2024-04-06,refund,IT,"Lewis, Carroll and Walker",card,travel,CTO,False,PRJ_019,569.33,False
+f811459e-7700-4797-a511-8016ad2d666f,2023-02-19,expense,Marketing,"Bean, Gonzales and Martin",bank_transfer,travel,CEO,False,PRJ_015,-5584.02,False
